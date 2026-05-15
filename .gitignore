@@ -1,3 +1,13 @@
 # Keep source notes public; keep raw article files local
 /sources/*.pdf
 /sources/*.txt
+
+# Keep product sources; ignore rendered product artifacts
+/products/**/*.html
+/products/**/*.pdf
+/products/**/*.docx
+/products/**/*.typ
+/products/**/*.ttt
+/products/**/*_files/
+/products/**/.quarto/
+/products/**/~$*.docx

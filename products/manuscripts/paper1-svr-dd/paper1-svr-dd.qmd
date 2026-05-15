@@ -1,76 +1,208 @@
 ---
-title: "My Title"
-shorttitle: "Short Title in Running Header"
+title: "Simple View of Reading—Developmental Dynamics: A Framework for Comparing Mechanistic Accounts of Reading Growth"
+shorttitle: "SVR-DD"
 author:
-  - name: Jane Doe
+  - name: "[Author name]"
     corresponding: true
-    orcid: 0000-0000-0000-0001
-    email: janedoe@generic.edu
+    email: "[email]"
     affiliations:
-      - name: Generic University
-        department: Department of Scholarly Studies
-        address: 1234 Capital St.
-        city: New York
-        region: NY
-        country: USA
-        postal-code: 12084-1234
+      - name: "[Institution]"
 author-note:
-  status-changes: 
+  status-changes:
     affiliation-change: ~
     deceased: ~
   disclosures:
     study-registration: ~
-    data-sharing: ~
+    data-sharing: "[Add data and code availability statement.]"
     related-report: ~
-    conflict-of-interest: ~
+    conflict-of-interest: "[Add disclosure statement.]"
     financial-support: ~
     gratitude: ~
     authorship-agreements: ~
-abstract: "This document is a template."
-impact-statement: "This template helps you get started."
-keywords: [Keyword 1, Keyword 2, Keyword 3]
+abstract: |
+  The Simple View of Reading identifies decoding and language comprehension as jointly necessary components of reading comprehension, but it is primarily a static account. This paper introduces Simple View of Reading—Developmental Dynamics (SVR-DD), a framework for comparing mechanistic accounts of how reading-related skills change together over development. We outline candidate developmental mechanisms, derive observable signatures that could distinguish them, and describe an initial empirical orientation using longitudinal achievement data from the Early Childhood Longitudinal Study, Kindergarten Class of 1998–99 (ECLS-K:1998). The present manuscript is a rough draft: the theoretical framework is specified, whereas the empirical analyses remain preliminary and are intended to motivate the next stage of model comparison.
+impact-statement: "SVR-DD turns broad claims about reading development into explicit developmental models that can be compared against observed longitudinal patterns."
+keywords: [reading development, Simple View of Reading, developmental dynamics, mutualism, longitudinal modeling]
 bibliography: bibliography.bib
+provenance:
+  created: 2026-05-15
+  created_by: ai
+  sources:
+    - knowledge/modules/svr-dd-theoretical-foundations.md
+    - products/notebooks/initial-descriptive-analysis.qmd
+    - data/eclsk_data.csv
+    - sources/Gough1986DecodingReadingReading.notes.md
+    - sources/Hoover1990SimpleViewReading.txt
+    - sources/VanDerMaas2006DynamicalModelGeneralIntelligence.notes.md
+    - sources/stanovich1986MatthewEffectsReading.txt
+  last_verified: 2026-05-15
+  verification_method: "Drafted against the current theoretical module, repository source materials, and descriptive summaries recomputed from data/eclsk_data.csv."
 format:
   apaquarto-docx: default
   apaquarto-html: default
-  apaquarto-typst: 
+  apaquarto-typst:
     keep-typ: true
   apaquarto-pdf:
     documentmode: man
 ---
 
-<!-- The introduction should not have a level-1 heading such as Introduction. -->
+<!-- Rough manuscript draft. Preserve uncertainty where empirical work is not yet complete. -->
 
-This is my first paragraph. Any section headings in the introduction should be in levels 2--5.
+Reading theory has been unusually successful at naming the components of skilled reading, but less successful at specifying how those components generate developmental change. The Simple View of Reading (SVR) offers a powerful static architecture: reading comprehension depends on both decoding and linguistic comprehension [@Gough1986DecodingReadingReading; @Hoover1990SimpleViewReading]. Yet the central developmental questions remain open. How do these components change over time? Why might their relations strengthen with age? And which observable growth patterns would distinguish competing explanations of reading development?
 
-## Section in Introduction
+This paper introduces **Simple View of Reading—Developmental Dynamics (SVR-DD)** as a model-comparison framework for answering those questions. Rather than treating one developmental story as settled in advance, SVR-DD uses the component logic of SVR as a shared starting point and asks which mechanistic account best reproduces observed longitudinal patterns.
 
-This is a reference [@cohen2003applied].
+## From a Static Architecture to a Developmental Problem
+
+- Briefly introduce the original SVR formulation: reading comprehension as the joint product of decoding and language comprehension.
+- Emphasize what SVR explains well at a single time point: component necessity, reading-disability profiles, and the distinction between word recognition and language understanding.
+- State the gap motivating this paper: a measurement architecture is not yet a developmental mechanism.
+- Transition: developmental theory should explain not only **what predicts reading**, but **how trajectories are generated**.
+
+## Why Developmental Mechanisms Matter
+
+- Different mechanisms can produce similar cross-sectional patterns.
+- Reciprocal developmental processes may create correlations that look like a common cause when inspected only at one time point [@VanDerMaas2006DynamicalModelGeneralIntelligence].
+- Reading theory already contains developmental ideas compatible with this possibility, including reciprocal and cumulative processes in literacy growth [@Stanovich1986MatthewEffectsReading].
+- Therefore, the empirical target should be a set of longitudinal signatures, not a single endpoint association.
+
+## The SVR-DD Framework
+
+SVR-DD preserves the SVR measurement relation while adding explicit developmental dynamics:
+
+$$
+RC(t) = D(t) \times L(t)
+$$
+
+where $RC(t)$ is reading comprehension, $D(t)$ is decoding, and $L(t)$ is language comprehension at time $t$.
+
+### Candidate Developmental Mechanisms
+
+1. **Static or weakly developmental baseline**  
+   Components predict reading but do not meaningfully alter one another over time.
+
+2. **Autoregressive growth account**  
+   Each skill mainly develops from its own prior level, with limited cross-skill influence.
+
+3. **Constrained/unconstrained growth account**  
+   Decoding approaches an earlier asymptote, whereas language comprehension continues to grow over a longer developmental window. The current project module formalizes this as differing carrying capacities within a logistic-growth framework.
+
+4. **Mutualism account**  
+   Skills reciprocally support one another during development, so positive relations strengthen as a consequence of interaction rather than a single latent cause [@VanDerMaas2006DynamicalModelGeneralIntelligence].
+
+### Provisional Observable Signatures
+
+The current theoretical work motivates several signatures for later testing:
+
+- **P1: Decoding plateau** — decoding-related growth should decelerate after the early grades.
+- **P2: Continued language-comprehension growth** — language-related skills should continue increasing after decoding growth slows.
+- **P3: Increasing cross-skill association** — relations among developing academic skills may strengthen over time under interaction-based accounts.
+- **P4: Grade-specific intervention sensitivity** — decoding-focused instruction may matter most when decoding remains a binding constraint.
+
+These signatures are hypotheses for model comparison, not established findings in the present draft.
+
+## Present Study
+
+### Aims
+
+This first paper has three aims:
+
+1. articulate SVR-DD as a developmental extension and comparison framework;
+2. specify the empirical patterns that candidate mechanisms should reproduce; and
+3. provide an initial descriptive orientation to the longitudinal data that will support later model fitting.
+
+### Scope of the Current Evidence
+
+The present empirical material is intentionally modest. The available analysis file contains repeated achievement measures in grades 3, 5, and 8 from ECLS-K:1998. At this stage, reading, mathematics, and science scores are treated as broad achievement indicators only. They are **not** yet equivalent to clean measures of decoding and language comprehension, so they cannot by themselves adjudicate the core SVR-DD mechanisms.
 
 # Method
 
-## Participants
+## Data Source and Participants
+
+- Data source: Early Childhood Longitudinal Study, Kindergarten Class of 1998–99 (ECLS-K:1998).
+- Current analytic file: `data/eclsk_data.csv`.
+- Available repeated observations in the present file: grades 3, 5, and 8.
+- Initial file size: 2,108 rows before domain-specific missingness is considered.
+- **TODO:** Add sample construction, inclusion criteria, weights, and attrition handling once the confirmatory workflow is finalized.
 
 ## Measures
 
-## Procedure
+- **Reading achievement:** raw reading scores at grades 3, 5, and 8.
+- **Mathematics achievement:** raw mathematics scores at grades 3, 5, and 8.
+- **Science achievement:** raw science scores at grades 3, 5, and 8.
+- **Construct note:** These measures provide a first descriptive map of longitudinal achievement, but the project still requires better-aligned indicators for decoding and language comprehension before strong tests of SVR-DD.
+
+## Analytic Plan
+
+1. Summarize observed scores and missingness across grades.
+2. Inspect broad developmental trends across domains.
+3. Estimate within-grade associations among domains.
+4. In later analyses, fit competing longitudinal models and compare their ability to reproduce the pre-specified signatures.
 
 # Results
 
+## Descriptive Statistics
+
+Table 1 reports the initial descriptives for the raw achievement measures currently available in the analysis file.
+
+| Domain | Grade | n | Mean | SD | Min | Max |
+|---|---:|---:|---:|---:|---:|---:|
+| Mathematics | 3 | 1,442 | 99.68 | 25.45 | 35.70 | 158.95 |
+| Mathematics | 5 | 1,136 | 123.58 | 25.21 | 50.89 | 169.88 |
+| Mathematics | 8 | 945 | 142.34 | 22.53 | 67.75 | 171.78 |
+| Reading | 3 | 1,430 | 127.64 | 29.18 | 51.51 | 195.74 |
+| Reading | 5 | 1,133 | 151.26 | 27.33 | 64.67 | 201.66 |
+| Reading | 8 | 941 | 171.56 | 27.72 | 89.24 | 208.33 |
+| Science | 3 | 1,442 | 51.03 | 15.63 | 18.35 | 92.68 |
+| Science | 5 | 1,135 | 65.33 | 16.24 | 22.59 | 103.19 |
+| Science | 8 | 947 | 84.91 | 16.68 | 29.64 | 108.07 |
+
+: Initial descriptive statistics for raw achievement measures in the current ECLS-K analytic file. Values were recomputed from `data/eclsk_data.csv` on May 15, 2026. {#tbl-descriptives}
+
+### Initial Patterns
+
+- Mean scores increase from grade 3 to grade 8 in all three domains.
+- Available observations decline at later grades, so later longitudinal work will need an explicit missing-data strategy.
+- The existing descriptive notebook also shows positive within-grade associations among science, reading, and mathematics scores.
+- These patterns are useful orientation, but they are not yet discriminating evidence for SVR-DD because the current measures are broader than the model’s focal constructs.
+
+## Planned Model-Comparison Results
+
+- **TODO:** Fit the baseline, autoregressive, constrained/unconstrained, and mutualism families.
+- **TODO:** Define model-recovery criteria and predictive checks tied to P1–P4.
+- **TODO:** Report whether each candidate reproduces the target signatures without overfitting.
+
 # Discussion
+
+SVR-DD is meant to shift the argument from labels to mechanisms. The classic SVR tells us that decoding and language comprehension matter jointly; the developmental question is what kinds of processes make their trajectories unfold as they do. A useful theory should predict not only higher or lower reading outcomes, but the shape of change, the timing of constraints, and the evolution of relations among skills.
+
+The initial descriptive evidence here does not yet decide among candidate mechanisms. Its value is architectural: it shows the empirical substrate available for the next phase and clarifies where stronger construct alignment is needed. The next decisive step is to connect model parameters to measures that more directly represent decoding and language comprehension, then ask which developmental model reproduces the observed signatures with the least theoretical strain.
+
+## Contributions
+
+- Recasts SVR as a developmental model-comparison problem.
+- Makes competing mechanisms explicit enough to generate rival predictions.
+- Separates provisional descriptive orientation from stronger evidentiary claims.
 
 ## Limitations and Future Directions
 
+- The current manuscript relies on broad achievement measures rather than construct-pure indicators of decoding and language comprehension.
+- The present descriptives begin at grade 3, leaving the earliest period of decoding development outside the current empirical window.
+- Several theoretical claims in the underlying project module remain proposed rather than established.
+- Future work should incorporate earlier waves, stronger measurement models, formal missing-data handling, and direct comparison of candidate dynamical systems.
+
 ## Conclusion
 
-# References
+A developmental science of reading needs more than a list of important ingredients; it needs accounts of how those ingredients change together. SVR-DD offers a way to make those accounts explicit, compare them fairly, and let longitudinal evidence decide which developmental story has earned its place.
 
-<!-- References will auto-populate in the refs div below -->
+# References
 
 ::: {#refs}
 :::
 
-# This Section Is an Appendix {#apx-a}
+# Appendix A: Working Paper Roadmap {#apx-a}
 
-
-# Another Appendix {#apx-b}
+- Finalize construct mapping for decoding and language comprehension.
+- Add sample-construction details and attrition diagnostics.
+- Formalize candidate models and preregister signature-based comparisons if appropriate.
+- Replace this appendix with technical model specifications once analyses are mature.

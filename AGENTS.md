@@ -20,7 +20,7 @@ Available project-local skills include:
 
 When both project-local skills and global instructions apply, follow the project-local skill for repository-specific workflow details unless it conflicts with higher-priority instructions.
 
-## File roles
+## File roles 
 
 Keep different kinds of project material separate.
 

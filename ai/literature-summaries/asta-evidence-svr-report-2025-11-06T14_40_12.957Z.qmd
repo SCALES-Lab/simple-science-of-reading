@@ -1,0 +1,204 @@
+---
+title: "ASTA REPORT: Evaluate the existing evidence supporting and contradicting the Simple View of Reading as articulated by Hoover and Gough, 1990, The Simple View of Reading."
+format:
+  pdf:
+    toc: true
+    number-sections: true
+bibliography: astra-evidence-svr-report-2025-11-06T14_40_12.957Z.bib
+csl: apa.csl
+link-citations: true
+---
+
+## Document Information
+
+**Report ID:** `33bcc24a-d8c8-4e32-a02d-c31674f11d05`
+
+**Generated:** astra-evidence-svr
+
+**Research Question:** Evaluate the existing evidence supporting and contradicting the Simple View of Reading as articulated by Hoover and Gough, 1990, The Simple View of Reading.
+
+---
+
+## Background and Core Components of the Simple View of Reading
+
+::: {.callout-note}
+## TL;DR
+The Simple View of Reading, first described by Gough and Tunmer in 1986, proposes that reading comprehension is the product of two essential components: decoding skills and language comprehension skills. Both components are equally necessary for reading success, with neither being sufficient alone, and weakness in one area cannot be compensated by strength in the other. (11 sources)
+:::
+
+The Simple View of Reading represents a framework for understanding reading abilities that was first described by Gough and Tunmer in 1986, with the goal of organizing the component processes of reading into basic constructs [@Russell2002]. The model proposes that reading comprehension is the product of decoding skills and listening comprehension skills, expressed as the equation D × LC = RC [@Russell2002]. At its most basic level, the Simple View frames reading comprehension as requiring both word reading (the ability to read printed words in text) and language comprehension (the ability to automatically associate meaning to speech sounds) [@MancillaMartinez2020].
+
+The decoding component encompasses efficient decoding, precise sight-word identification, fluent word reading, and access to semantic information in the reader's mental lexicon [@Hartmanetal2019]. This component is reflected in the degree to which a student can fluently read connected text [@Paigeetal2018]. The language comprehension component includes knowledge of facts and concepts, vocabulary, language and text structures, verbal reasoning structures, and strategies [@Hartmanetal2019]. It also encompasses broader oral language skills including grammar, semantics, and pragmatics [@Hulmeetal2014].
+
+A critical feature of the Simple View is that both components are equally important and necessary for reading success, with neither being sufficient alone [@Taranetal2022]. The model asserts that strength in one area cannot compensate for weakness in the other, and that reading ability will only be as strong as the weaker skill [@Modlin2024]. This means that if students can read printed words but cannot understand their meanings, or can understand meanings in oral language but cannot read the printed words, neither situation represents true reading comprehension [@MancillaMartinez2020].
+
+Recent extensions of the Simple View have incorporated executive functions as relevant factors, specifically working memory and cognitive flexibility, which appear to contribute to reading comprehension through their relationships with decoding and oral language [@Taranetal2022] [@Spenceretal2020]. Despite being developed in 1986, the Simple View continues to receive validation from research and remains one of the most well-known and empirically supported models of reading comprehension [@Modlin2024] [@Snow2018] [@Catts2018] [@Hooveretal2018] [@MancillaMartinez2020].
+
+## Empirical Evidence Supporting the Simple View
+
+::: {.callout-note}
+## TL;DR
+Extensive empirical research across multiple languages, age groups, and methodological approaches has provided strong support for the Simple View of Reading. Large-scale longitudinal studies consistently demonstrate that decoding and language comprehension together account for nearly all variance in reading comprehension, with some studies explaining up to 99.7% of reading comprehension performance. (12 sources)
+:::
+
+The Simple View of Reading has received substantial empirical validation across diverse populations and research designs. Large-scale longitudinal studies using sophisticated statistical methods have consistently demonstrated the model's predictive power. For example, Lervåg, Hulme, and Melby-Lervåg (2018) followed nearly 200 Norwegian children and found that decoding and linguistic comprehension captured nearly all variation in reading comprehension at 7.5 years [@Nation2019] [@Lervag2018]. Similarly, Hjetland and colleagues (2019) reported that language comprehension and decoding, together with their interaction and curvilinear effects, explained an remarkable 99.7% of the variance in reading comprehension skills at 7 years of age [@Nation2019] [@Hjetlandetal2019].
+
+Multiple studies using latent variable approaches have confirmed these findings. The Language and Reading Research Consortium and Chiu (2018) demonstrated that a structural equation model with multiple measures of word recognition, listening comprehension, and reading comprehension provided adequate fit for Grade 3 data [@Nation2019] [@Chiu2018]. Lonigan and colleagues (2018) examined 757 children in Grades 3-5 and found that the two Simple View constructs accounted for almost all variance in reading comprehension [@Nation2019] [@Loniganetal2018].
+
+The model's validity extends beyond alphabetic writing systems. Ho and colleagues (2012) provided evidence for the Simple View in Chinese, demonstrating through behavior-genetic analyses that vocabulary and word reading had significant independent genetic influences on reading comprehension in this non-alphabetic language [@Nation2019] [@Hoetal2012]. This cross-linguistic support strengthens the universality of the model's core principles.
+
+Recent large-scale investigations have further validated the Simple View framework. Studies have explored predictive relationships from prekindergarten skills to third grade reading comprehension, examined developmental shifts in component importance across grade levels, and investigated the model's application to both typical and struggling readers [@Trezeketal2019] [@Chiu2018] [@Loniganetal2018] [@Francisetal2018]. The consistency of findings across these diverse studies has led scholars to recognize the Simple View as one of the most robust hypotheses in literacy research [@Trezeketal2019] [@Snow2018].
+
+The empirical support spans different methodological approaches, including longitudinal research with typically developing children, studies of children with specific reading difficulties, behavioral genetics investigations, and factor analytic studies [@Rickettsetal2014]. This convergent evidence from multiple research paradigms strengthens confidence in the model's validity. Furthermore, support has been documented for both monolingual and bilingual populations, with studies showing that the Simple View framework applies effectively to English learners and provides insights into different mechanisms of reading comprehension difficulties across linguistic groups [@Ohetal2023] [@Choetal2019].
+
+## Developmental Patterns and Grade-Level Changes
+
+::: {.callout-note}
+## TL;DR
+The relative importance of decoding and language comprehension components in the Simple View changes dramatically across grade levels. Decoding skills dominate reading comprehension in early grades, while language comprehension becomes increasingly important as children develop automatic word reading abilities. (6 sources)
+:::
+
+One of the most consistent findings in Simple View research is that the relative contributions of decoding and language comprehension shift systematically across developmental stages. In seven-to nine-year-old children who are still in the early stages of reading acquisition, differences in reading comprehension are closely associated with differences in decoding skill, but as decoding skills improve and the child's reading level improves, differences in reading comprehension become more closely associated with level of language comprehension [@Russell2002]. Although the model assumes that the two components are equally important for reading success, decoding is hypothesized to contribute to reading comprehension more than linguistic comprehension until children acquire sufficient decoding skills to read fluently, then linguistic comprehension becomes more important [@Wengelinetal2017].
+
+This developmental pattern is supported by longitudinal evidence showing that phonological awareness, letter knowledge and rapid naming in kindergarten were the strongest predictors of reading in first and second grade, while third and fourth graders can decode automatically with little variation in this highly constrained skill [@Hagen2018]. As a result, measures of language ability such as vocabulary or oral cloze assessments explain most of the variation in older children's reading comprehension [@Hagen2018].
+
+The magnitude of this developmental shift is substantial. A meta-analysis found that the correlation between decoding and comprehension was 0.80 for younger readers (age < 10 years) but only 0.47 for older readers (age > 11 years) [@Solisetal_12022] [@Solisetal_12022]. Studies of high school students show even weaker relationships, with the multiplicative association between decoding and reading comprehension diminishing to the point where researchers have suggested considering an additive rather than multiplicative model for upper grades [@Solisetal_12022] [@Solisetal_12022].
+
+A large-scale meta-analysis confirmed these developmental patterns, finding that reading comprehension was influenced more by oral language skills and less by reading fluency skills in more advanced reading stages than earlier stages, where reading fluency had a stronger influence on comprehension [@Monaghan2023]. Vocabulary knowledge demonstrates a particularly important developmental trajectory, developing relatively independently from beginning reading skills in early grades but becoming increasingly predictive of reading comprehension over time, with early vocabulary knowledge continuing to predict reading comprehension in third grade and beyond [@Hagen2018].
+
+## Challenges and Contradictory Evidence
+
+::: {.callout-note}
+## TL;DR
+Despite widespread empirical support, the Simple View has faced significant criticism for oversimplifying reading comprehension. Critics argue that additional components beyond decoding and language comprehension are needed, that the two main components are not truly independent, and that the model fails to account for the complex, componential nature of reading comprehension. (12 sources)
+:::
+
+While the Simple View has received substantial empirical validation, researchers have identified several important limitations and contradictory findings that challenge its fundamental assumptions. Many scholars argue that additional components are needed in this model, with longitudinal studies providing support for an augmented model derived from the remaining variation in reading ability that cannot be explained within the Simple View framework [@Hjetlandetal2015]. The augmented view of reading suggests that there needs to be a wider perspective on reading development that explores how different linguistic and cognitive processes affect and have longitudinal contributions to reading comprehension [@Hjetlandetal2015].
+
+Several studies have reported results supporting a "not-so-simple view" of the skills underlying reading comprehension, finding that reading comprehension and decoding are relatively independent, that other skills (particularly vocabulary) are important for reading comprehension, and that the contribution of predictors involved in reading comprehension depends on children's grade level [@Gentazetal2013] [@Ouellette2006]. These results challenge the Simple View of Reading [@Gentazetal2013].
+
+Some particularly surprising contradictory results have emerged from longitudinal studies. In certain investigations, neither word-level reading skills using isolated words nor words in context significantly explained reading comprehension, even when children were 7-8 years old [@Gentazetal2015]. These unexpected findings may be partly explained by measurement issues, as some assessments of word-level reading skills using words in context are not very sensitive for differentiating between good and poor readers [@Gentazetal2015].
+
+A fundamental criticism of the Simple View concerns its focus on spoken language comprehension rather than reading comprehension, which are very different methods of communication [@Tennent2020]. Readers must engage with different syntactical and text structures not ordinarily found in speech, and they develop their spoken language through engagement with texts [@Tennent2020]. The Simple View does not acknowledge the componential nature of comprehension, nor its complexity, despite evidence that text comprehension is composed of numerous processes and factors that work interactively [@Tennent2020].
+
+Research in the 35 years since the theory was proposed has revealed that reading difficulties have multiple causes not all falling under decoding and listening comprehension, that decoding and listening comprehension overlap in important ways rather than influencing reading solely independently, and that there are many contributors to reading not named in the Simple View, such as active, self-regulatory processes [@Dukeetal2021] [@Hooveretal2018]. Although the Simple View has helped in understanding reading comprehension, it may lead to false impressions about how complex reading comprehension actually is [@Psyridouetal2022] [@Catts2018]. Other theoretical frameworks include additional factors affecting reading comprehension such as working memory, perspective taking, lexical legacy, and background knowledge [@Psyridouetal2022] [@Kim2019] [@Nation2017].
+
+Critics argue that the word recognition and oral language comprehension components of the Simple View are poorly specified, that they are not entirely independent, and that reading comprehension involves more than just these components [@Rickettsetal2014]. Despite its wide use in reading research, these criticisms highlight important limitations in the model's scope and specificity [@Rickettsetal2014].
+
+## Proposed Extensions and Modifications
+
+::: {.callout-note}
+## TL;DR
+Researchers have proposed several extensions to the Simple View of Reading to address its limitations, including augmented models that incorporate executive functions, vocabulary as a separate component, and text features. The most notable proposals include the Complete View of Reading and the Cognitive Foundations of Reading model. (9 sources)
+:::
+
+In response to criticisms that the Simple View oversimplifies reading comprehension, researchers have proposed various extensions and modifications to the original framework. The most comprehensive response has been the development of "augmented models" that incorporate additional components beyond decoding and language comprehension. These augmented models are derived from the remaining variation in reading ability that cannot be explained within the Simple View framework and suggest that there needs to be a wider perspective on reading development that explores how different linguistic and cognitive processes affect and have longitudinal contributions to reading comprehension [@Hjetlandetal2015].
+
+One of the most significant proposed extensions involves incorporating executive functions into the Simple View framework. Recent studies suggest that executive functions, specifically working memory and cognitive flexibility, should be included in the theoretical model [@Doleanetal2021]. Research has shown that executive functions appear to contribute to reading comprehension through their relationships with decoding and oral language, with both oral language and decoding fully mediating the relations between working memory and cognitive flexibility and reading comprehension [@Taranetal2022] [@Spenceretal2020]. However, findings indicate that executive functions do not have a significant direct effect on the development of reading comprehension in early readers beyond fluent decoding and oral language skills [@Doleanetal2021].
+
+Another major line of research has focused on expanding the Simple View by adding vocabulary as a separate component. Some researchers have argued that vocabulary affects reading comprehension directly and independently of listening comprehension and decoding, proposing that the Simple View be extended to include a separate direct effect of vocabulary on reading comprehension [@Brazeetal2015]. However, the evidence for vocabulary-enriched versions of the Simple View remains inconsistent, with some studies finding that the effect of vocabulary on reading comprehension is completely captured by listening comprehension itself [@Brazeetal2015]. Despite mixed findings, extended Simple View models incorporating vocabulary and reading fluency have shown additional contributions to explained variance in reading comprehension [@Goncalves2021].
+
+A notable advancement is the Complete View of Reading (CVRi), which expands on the foundation of the Simple View and offers a more comprehensive model by considering the impact of text features such as complexity and genre on comprehension abilities [@Trezeketal2019] [@Francisetal2018]. The CVRi uses multivariate cross-classified random effects models to account for variation within readers and across texts, allowing for both the personalization of the reading function and integration of component skills and text frameworks [@Francisetal2018].
+
+More recently, the Cognitive Foundations of Reading (CFR) model has been proposed as a developmental extension of the Simple View. Unlike the static Simple View, which suggests unidirectional relations between component skills and reading comprehension, the CFR considers the existence of reciprocal relations between lower- and higher-order skills to explain developmental changes observed in reading comprehension [@Rodriguesetal2022].
+
+Despite these proposed modifications, researchers acknowledge that the components of the Simple View are echoed in both existing and emerging models of reading development, lending further support for the importance of both decoding and language comprehension skills in the reading process [@Trezeketal2019]. The core principles of the original model continue to represent a robust hypothesis for understanding reading comprehension development, even as scholars work to address its limitations through these various extensions [@Trezeketal2019].
+
+## Mixed and Inconclusive Findings
+
+::: {.callout-note}
+## TL;DR
+Despite the Simple View's widespread acceptance, research has produced mixed and contradictory results across different languages, populations, and methodological approaches. These inconsistencies appear to stem from differences in measurement tools, analytical methods, and the specific populations studied. (6 sources)
+:::
+
+Research testing the Simple View of Reading has produced notably inconsistent results across different studies, populations, and methodological approaches. Some of the most surprising contradictory findings have emerged from longitudinal studies where neither word-level reading skills using isolated words nor words in context significantly explained reading comprehension, even when children were 7-8 years old [@Gentazetal2015]. These unexpected results may be partly explained by measurement issues, as some assessments of word-level reading skills using words in context are not very sensitive for differentiating between good and poor readers [@Gentazetal2015].
+
+The relative contributions of decoding and language comprehension have shown conflicting patterns across grade levels in different studies. While some research indicates that only decoding skills contribute significantly in Grade 1, with both components becoming important by Grade 2, other studies with first and second graders observed that listening comprehension was actually a more powerful predictor of reading comprehension than decoding skills in both grades [@Gentazetal2015].
+
+Cross-linguistic studies have revealed additional inconsistencies in how the Simple View operates across different languages and populations. Research in Malay language found that reading comprehension was largely explained by decoding, with listening comprehension adding only a small amount to the variance, and an additive model was found to be a better predictor than the traditional multiplicative model [@Ghaedsharafietal2011]. In contrast, studies with Spanish-speaking students learning English confirmed the validity of the Simple View, finding that second language oral proficiency and word reading were the best predictors of reading comprehension [@Ghaedsharafietal2011].
+
+A fundamental source of inconsistency concerns whether decoding and language comprehension truly represent independent components as the Simple View assumes. While some studies support the framework by indicating that language and decoding skills are two distinct components, other studies challenge this by demonstrating strong correlations between decoding and language comprehension in preschoolers, indicating that these are not two distinct components and instead depend on one another [@Weissetal2022] [@Chiu2018] [@Hjetlandetal2019]. These inconsistencies are suggested to be due to the use of different measures and analytical approaches among different studies [@Weissetal2022].
+
+Population-specific factors also contribute to mixed findings. Research in South African populations found that the Simple View was not an exhaustive model of reading comprehension, as below-threshold levels in decoding suppressed the relationship between linguistic comprehension and reading comprehension in first language contexts [@Makaureetal2023]. Additionally, while decoding, linguistic comprehension, and fluent reading were critical components in English reading comprehension, only decoding and fluent reading, and not linguistic comprehension, were unique predictors in Northern Sotho [@Makaureetal2023].
+
+The mixed evidence extends to questions about whether the relationship between components should be multiplicative or additive, with some studies finding better support for additive models while others support the traditional product relationship [@Ghaedsharafietal2011]. These controversial results regarding the nature of the relationship between reading comprehension and its related factors highlight the complexity of validating the Simple View across diverse contexts and populations [@Ghaedsharafietal2011].
+
+## Current Status and Future Directions
+
+::: {.callout-note}
+## TL;DR
+The Simple View of Reading remains influential in literacy education policy and practice despite ongoing debates about its limitations. Current research focuses on developing more detailed processing models and refining classification systems, while the core framework continues to provide useful guidance for understanding reading difficulties. (10 sources)
+:::
+
+The Simple View of Reading continues to hold a prominent position in literacy research and education, with mountains of research indicating that word recognition and language comprehension are each very important contributors to reading [@Dukeetal2021]. However, scholars increasingly recognize that "there is much more to understand about reading than what is represented in the SVR" [@Dukeetal2021] [@Hooveretal2018]. This recognition has led to important developments in how researchers approach the model's limitations and potential applications.
+
+A major area of current focus involves addressing the Simple View's theoretical underspecification. Critics note that the SVR is not an implemented processing model, and the theory does not even commit to whether decoding reflects sublexical (letter-to-sound) or lexical (whole-word) knowledge [@Changetal2019] [@Castlesetal2018] [@Nation2019]. This has prompted researchers to develop more detailed processing models that maintain the Simple View's core insights while specifying the actual mechanisms that underpin the discovery of meaning from the printed word [@Tayloretal2017].
+
+Recent longitudinal studies continue to provide strong empirical support for the Simple View's fundamental predictions, with research demonstrating that language comprehension and decoding, together with their interaction and curvilinear effects, explain almost all (99.7%) of the variance in reading comprehension skills at 7 years of age [@Changetal2019] [@Hjetlandetal2019] [@Lervag2018]. These findings provide strong support for an elaborated version of the simple view of reading [@Hjetlandetal2019].
+
+Contemporary research has also focused on refining classification systems based on the Simple View framework. Recent studies using latent profile analysis have identified reading profiles that correspond to the four profiles predicted by the SVR, suggesting that the framework remains valid for describing reading performance at a level that is useful for classroom instruction [@Tetzlaffetal2023]. These studies observe patterns consistent with the presumed multiplicative relation between decoding and language comprehension, particularly when examining cases where both skills are either well-developed or poorly developed [@Tetzlaffetal2023].
+
+Looking forward, researchers are working to interpret seemingly contradictory findings within the Simple View framework rather than viewing them as evidence against the model. Current scholarship argues that cases of good skills in word recognition and language comprehension coupled with poor reading comprehension can be interpreted as consistent with the SVR rather than counter to it [@Hoover2023]. This approach suggests that future research should focus on better understanding how the Simple View's components interact rather than abandoning the framework entirely.
+
+The Simple View's continued influence on policy and practice in literacy education reflects its practical utility, even as researchers work to address its theoretical limitations [@Tayloretal2017]. The field appears to be moving toward a more nuanced understanding that preserves the Simple View's core insights while incorporating additional complexity through processing models and extended frameworks that better capture the full range of factors influencing reading comprehension development.
+
+
+## References Summary
+
+The following sources are cited in this report and detailed in the accompanying `.bib` file:
+
+| Citation | Title | Year | Venue |
+|----------|-------|------|-------|
+| `@Brazeetal2015` | Vocabulary does not complicate the simple view of reading | 2015 | Reading & Writing |
+| `@Castlesetal2018` | Ending the Reading Wars: Reading Acquisition From Novice ... | 2018 | Psychological Science in the Public Interest |
+| `@Catts2018` | The Simple View of Reading: Advancements and False Impres... | 2018 | Assessing and Teaching Reading Comprehension and Pre-Writing, 3–5 |
+| `@Changetal2019` | The relationships between oral language and reading instr... | 2019 | Cognitive Psychology |
+| `@Chiu2018` | The Simple View of Reading Across Development: Prediction... | 2018 | Remedial and special education |
+| `@Choetal2019` | Examining Sources and Mechanisms of Reading Comprehension... | 2019 | Journal of Educational Psychology |
+| `@Doleanetal2021` | Language skills, and not executive functions, predict the... | 2021 | Reading & Writing |
+| `@Dukeetal2021` | The Science of Reading Progresses: Communicating Advances... | 2021 | Reading Research Quarterly |
+| `@Francisetal2018` | Extending the Simple View of Reading to Account for Varia... | 2018 | Remedial and special education |
+| `@Gentazetal2013` | Reading Comprehension in a Large Cohort of French First G... | 2013 | PLoS ONE |
+| `@Gentazetal2015` | Differences in the Predictors of Reading Comprehension in... | 2015 | PLoS ONE |
+| `@Ghaedsharafietal2011` | Evaluation of the Simple View of Reading in an EFL Contex... | 2011 |  |
+| `@(Goncalves et al., 2021)` | Reading Comprehension Predictors in European Portuguese A... | 2021 | Frontiers in Psychology |
+| `@Hagen2018` | Improving the Odds: Identifying Language Activities that ... | 2018 |  |
+| `@Hartmanetal2019` | Language and Literacy: Issues and Considerations | 2019 | Education sciences |
+| `@Hjetlandetal2015` | PROTOCOL: Preschool Predictors of Later Reading Comprehen... | 2015 |  |
+| `@Hjetlandetal2019` | Pathways to reading comprehension: A longitudinal study f... | 2019 | Journal of Educational Psychology |
+| `@Hoetal2012` | The Genetic and Environmental Foundation of the Simple Vi... | 2012 | PLoS ONE |
+| `@Hooveretal2018` | The Simple View of Reading: Three Assessments of Its Adeq... | 2018 | Remedial and special education |
+| `@Hoover2023` | The simple view of reading and its broad types of reading... | 2023 | Reading & Writing |
+| `@Hulmeetal2014` | The interface between spoken and written language: develo... | 2014 | Philosophical Transactions of the Royal Society B: Biological Sciences |
+| `@Kim2019` | Hierarchical and dynamic relations of language and cognit... | 2019 | Journal of Educational Psychology |
+| @Lervag2018 | Unpicking the Developmental Relationship Between Oral Lan... | 2018 | Child Development |
+| `@Loniganetal2018` | Examining the Simple View of Reading With Elementary Scho... | 2018 | Remedial and special education |
+| `@Makaureetal2023` | Explaining Variation in Reading Comprehension in Northern... | 2023 | Reading Psychology |
+| `@(Mancilla-Martinez, 2020)` | Understanding and Supporting Literacy Development Among E... | 2020 | AERA Open |
+| `@Modlin2024` | Exploring Performance Skills in the Occupation of Learnin... | 2024 | Journal of Occupational Therapy, Schools, &amp; Early Intervention |
+| `@Monaghan2023` | Literacy and early language development: Insights from co... | 2023 | Journal of Child Language |
+| `@Nation2017` | Nurturing a lexical legacy: reading experience is critica... | 2017 | npj Science of Learning |
+| `@Nation2019` | Children’s reading difficulties, language, and reflection... | 2019 | Australian Journal of Learning Difficulties |
+| `@Ohetal2023` | Assessments of English Reading and Language Comprehension... | 2023 | Canadian Journal of School Psychology |
+| `@Ouellette2006` | What's Meaning Got to Do With It: The Role of Vocabulary ... | 2006 |  |
+| `@Paigeetal2018` | Academic Vocabulary and Reading Fluency: Unlikely Bedfell... | 2018 | Education sciences |
+| `@Psyridouetal2022` | Development of silent reading fluency and reading compreh... | 2022 | Reading & Writing |
+| `@Rickettsetal2014` | Educational attainment in poor comprehenders | 2014 | Frontiers in Psychology |
+| `@Rodriguesetal2022` | Reading, linguistic, and metacognitive skills: are they r... | 2022 | Reading & Writing |
+| `@Russell2002` | An Examination of the Nature of Reading Fluency | 2002 |  |
+| `@Snow2018` | Simple and Not-So-Simple Views of Reading | 2018 | Remedial and special education |
+| `@Solisetal_12022` | Response to intervention for high school students: examin... | 2022 | Annals of Dyslexia |
+| `@(Solis et al._1, 2022)` | Response to intervention for high school students: examin... | 2022 | Annals of Dyslexia |
+| `@Spenceretal2020` | Considering the Role of Executive Function in Reading Com... | 2020 | Scientific Studies of Reading |
+| `@Taranetal2022` | The role of visual attention in dyslexia: Behavioral and ... | 2022 | Human Brain Mapping |
+| `@Tayloretal2017` | Comparing and Validating Methods of Reading Instruction U... | 2017 | Journal of experimental psychology. General |
+| `@Tennent2020` | The assessment of reading comprehension in English primar... | 2020 | Education |
+| `@Tetzlaffetal2023` | Modeling Interactions Between Multivariate Learner Charac... | 2023 | Educational Psychology Review |
+| `@Trezeketal2019` | Reading and Deafness: State of the Evidence and Implicati... | 2019 | Education sciences |
+| `@Weissetal2022` | Language input in late infancy scaffolds emergent literac... | 2022 | Frontiers in Human Neuroscience |
+| `@Wengelinetal2017` | The Complementary Relationships between Reading and Writi... | 2017 |  |
+
+## References
+
+::: {#refs}
+:::
