@@ -67,8 +67,19 @@ For each model family, the project will ask:
 ├── scripts/R/                            # Data import and processing workflows
 ├── knowledge/modules/                    # Durable theory and claim modules
 ├── ai/decision/                          # Project decision records
+├── ai/skills/                            # Project-local assistant skills
 └── products/manuscripts/paper1-svr-dd/   # Manuscript workspace
 ```
+
+## Project-local skills
+
+The repository includes a small set of project-local assistant skills in `ai/skills/`:
+
+- `knowledge-integrity`
+- `decision-notes`
+- `source-notes`
+
+These skills preserve project-specific workflows alongside the research materials so they remain available when the repository is shared or cloned.
 
 ## Current status
 

@@ -8,6 +8,18 @@ This project develops **SVR-DD** (**Simple View of Reading — Developmental Dyn
 
 Assistants may help with literature organization, source notes, data workflows, model specification, drafting, revision, and project documentation. The researcher remains responsible for interpretation, evidentiary judgment, and final decisions.
 
+## Project-local skills
+
+Before beginning a task, check `ai/skills/` for project-local skills relevant to the work. These skills are part of the repository context and should be used when applicable.
+
+Available project-local skills include:
+
+- `ai/skills/knowledge-integrity/SKILL.md` — use for work involving evidence boundaries, provenance, or durable project knowledge
+- `ai/skills/decision-notes/SKILL.md` — use when creating or updating decision records
+- `ai/skills/source-notes/SKILL.md` — use when creating or updating notes on source materials
+
+When both project-local skills and global instructions apply, follow the project-local skill for repository-specific workflow details unless it conflicts with higher-priority instructions.
+
 ## File roles
 
 Keep different kinds of project material separate.
