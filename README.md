@@ -94,3 +94,7 @@ Work currently underway includes:
 ## Guiding idea
 
 Reading development is not only a question of whether children differ, but of **how developmental trajectories are generated**. SVR-DD treats mathematical models as tools for making those developmental claims precise enough to compare, test, and revise.
+
+## Contact
+
+For project inquiries, contact `wmm0017@auburn.edu`.
