@@ -14,3 +14,6 @@
 /products/**/*_files/
 /products/**/.quarto/
 /products/**/~$*.docx
+
+# Keep the short presentation render under version control
+!/products/presentations/presentation-short.html
