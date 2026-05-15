@@ -1,3 +1,6 @@
+# Ignore macOS Finder metadata
+.DS_Store
+
 # Keep source notes public; keep raw article files local
 /sources/*.pdf
 /sources/*.txt
