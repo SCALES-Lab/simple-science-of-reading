@@ -1,0 +1,1524 @@
+The Simple View of Reading
+
+WESLEY         A. HOOVER’              and PHILIP          B. GOUGH*
+
+’ Southwest    Educational    Development     Laboratory    Austin,   Texas, U.S.A.
+2 University   of Texas, Austin,    Texas, U.S.A.
+
+
+
+ABSTRACT: A simple view of reading was outlined that consisted of two components,
+decoding and linguistic comprehension, both held to be necessary for skilled reading.
+Three predictions drawn from the simple view were assessed in a longitudinal sample of
+English-Spanish bilingual children in first through fourth grade. The results supported each
+ prediction: (a) The linear combination of decoding and listening comprehension made
+ substantial contributions toward explaining variation in reading comprehension, but the
+ estimates were significantly improved by inclusion of the product of the two components;
+ @) the correlations between decoding and listening comprehension tended to become
+ negative as samples were successively restricted to less skilled readers; and (c) the pattern
+ of linear relationships between listening and reading comprehension for increasing levels of
+ decoding skill revealed constant intercept values of zero and positive slope values increas-
+ing in magnitude. These results support the view that skill in reading can be simply
+ characterized as the product of skill in decoding and linguistic comprehension. The paper
+ concludes with a discussion of the implications of the simple view for the practice of
+ reading instruction, the definition of reading disability, and the notion of literacy.
+
+KEYWORDS: components of reading, decoding, listening comprehension, literacy, reading
+ability, reading comprehension, reading disability, reading instruction
+
+
+
+
+The view of reading as a complex activity has long been a part of experi-
+mental psychology. At the turn of the century, Huey (1908/1968)          wrote
+that to analyze reading would be to describe “very many of the most
+intricate workings of the human mind” (p. 6). Four decades later, Gates
+(1949) expressed a similar view, stating that reading is “a complex
+organization of patterns of higher mental processes . . . [that] . . . can and
+should embrace all types of thinking, evaluating, judging, imagining,
+reasoning, and problem-solving”    (p. 3). Holding to the same position, the
+authors of a recent report commissioned by the National Academy of
+Education (Anderson, Hiebert, Scott, and Wilkinson 1985) have likened
+reading to “the performance of a symphony orchestra” (p. 7).
+    In counterpoint, a different view of reading has developed. This view
+was clearly stated by Fries (1963) who noted that while reading certainly
+does involve the host of higher mental processes cited by Gates, “every
+one of the abilities listed may be developed and has been achieved by
+persons who could not read . . . [as] they are all matters of the uses of
+
+Reading and Writing: An Interdisciplinary       Journal 2: 127-160,199O.
+0 1990 Kluwer Academic    Publishers.     Printed in the Netherlands.
+128           WESLEY     A. HOOVER      AND   PHILIP   B. GOUGH
+
+language and are not limited to the uses of reading” (p. 118). In this
+simple view, what distinguishes reading is that the reader is exercising
+such abilities in response to graphic rather than acoustic signals, a feat
+requiring the reader decode the graphic shapes into linguistic form. Thus,
+one central claim of the simple view is that reading consists of only two
+components, decoding and linguistic comprehension.
+   The simple view does not deny that the reading process is complex.
+Linguistic comprehension      is certainly a complicated process, whether
+accomplished in reading or auding;’ and decoding, as evidenced by the
+extreme difficulty some have in acquiring it, is also no simple matter. The
+simple view simply holds that these complexities can be divided into two
+parts.
+   Moreover, the simple view holds that these two parts are of equal
+importance. The simple view does not reduce reading to decoding, but
+asserts that reading necessarily involves the full set of linguistic skills, such
+as parsing, bridging, and discourse building; decoding in the absence of
+these skills is not reading. At the same time, the simple view holds that
+decoding is also of central importance in reading, for without it, linguistic
+comprehension is of no use. Thus, a second central claim of the simple
+view is that both decoding and linguistic comprehension are necessary for
+reading success, neither being sufficient by itself.
+
+The Separability of Decoding and Linguistic Comprehension
+There is much evidence suggesting that decoding and linguistic compre-
+hension are separate components of reading skill. First, decoding and
+linguistic comprehension      can clearly be dissociated (cf. Gough and
+Tunmer 1986). It is quite possible to find average and even superior
+linguistic comprehension in the virtual absence of decoding skill, as the
+phenomenon of dyslexia demonstrates. One can even meet the more
+stringent requirement of double dissociation as evidenced by the superior
+decoding skill of individuals with inferior linguistic comprehension in the
+syndrome known as hyperlexia (Healy 1982). Nonetheless, these are
+extreme cases and they do not demonstrate that decoding and linguistic
+comprehension are separable in the range of the ordinary reader.
+    A number of investigations of normal reading and its relationships to
+decoding and linguistic comprehension have recently appeared (Curtis
+ 1980; Jackson and McClelland        1979; Palmer, MacLeod, Hunt, and
+Davidson 1985; Singer and Crouse 1981; Stanovich, Cunningham, and
+Feeman 1984; Stanovich, Nathan, and Vala-Rossi 1986). The general
+correlational trends found in these studies can be summarized succinctly:
+in the early school grades, decoding and linguistic comprehension are
+unrelated; both skills correlate with reading comprehension, but that with
+decoding is substantially stronger (coefficients of about 0.55 for decoding,
+                       SIMPLE   VIEW   OF READING                         129
+
+ about 0.35 for linguistic comprehension). In the latter grades, the strength
+ of the relationship between decoding and linguistic comprehension in-
+ creases (with coefficients ranging from 0.30 to 0.65); and while both
+ remain related to reading comprehension (coefficients of about 0.45 for
+ decoding, about 0.65 for linguistic comprehension), the relationship with
+ linguistic comprehension becomes the dominant one (cf. Sticht and James
+ 1984; but for an interesting perturbation        see Stanovich et al. 1984;
+ Stanovich et al. 1986).
+     In addition to simple correlations, more sophisticated analysis tech-
+ niques have been used to further explore the contributions of decoding
+ and linguistic comprehension       to reading comprehension.       Employing
+ multiple regression, Curtis (1980) found that in her samples of second-,
+ third-, and fifth-grade students, only decoding (all grades) and linguistic
+ comprehension (Grades 3 and 5) consistently made significant, indepen-
+ dent contributions      to reading comprehension.    Curtis found that after
+ removal of the effects of nine other variables, decoding uniquely accounted
+ for from 3% to 13% of the variance in reading comprehension across the
+ three grade levels studied, while linguistic comprehension accounted for
+ from 23% to 35%.
+     Singer and Crouse (1981) tested relationships within a sixth-grade data
+set via path analysis, finding that decoding and linguistic comprehension
+(assessed as vocabulary knowledge) were both causally related to reading
+comprehension       after removal of the effects of nonverbal intelligence
+(with standardized coefficients of 0.29 and 0.71, respectively). In a model
+including both nonverbal intelligence and phonological awareness, a path
+analysis of the first grade data of Stanovich et al. (1984) revealed that only
+decoding and linguistic comprehension          made significant independent
+contributions to reading comprehension (with standardized coefficients of
+0.39 and 0.26, respectively). In the same study, a series of hierarchical
+multiple regression analyses on the third- and fifth-grade data sets showed
+that after the removal of the effects of nonverbal intelligence, decoding
+accounted for 19% and 38% (Grades 3 and 5, respectively) of the
+variance in reading comprehension; linguistic comprehension accounting
+for 14% and 13%, respectively.
+     While such studies demonstrate that both decoding and linguistic
+comprehension are substantially related to reading comprehension (noting
+that the pattern of relationship changes over grade levels), the analyses do
+not specifically address the issue of how these two variables combine in
+that relationship. Whether the relationship can be adequately expressed as
+a multiplicative one was a focus of the present study.
+
+Reading Ability and Reading Process
+The simple    view of reading     must be distinguished     from   a kindred
+130          WESLEY    A. HOOVER     AND   PHILIP   B. GOUGH
+
+ hypothesis, the so-called “bottom-up”     model of the reading process, a
+hypothesis that has been shown to be inadequate (Rumelhart             1977;
+ Stanovich 1980). The bottom-up conception holds that reading is a serial
+process, with decoding preceding comprehension. On this view, decoding
+ should take place before, and thus, independently of comprehension, and
+it should not be influenced by things taking place at any higher levels. Yet
+ word recognition can be dramatically influenced by linguistic context (e.g.,
+ see Stanovich and West 1983), and this falsifies the strictly bottom-up
+ model.
+     However, the apparent failure of the bottom-up hypothesis does not
+invalidate the simple view of reading, for two reasons. First, while the
+bottom-up model is undoubtedly wrong, it is not clear how wrong it is.
+Although word recognition can be influenced by linguistic context under
+certain conditions, a strong, empirically supported argument can be made
+that during normal reading, the more proficient the reader, the less the
+ reliance on context (Gough 1983, 1984; Stanovich 1980). In short, fluent
+ reading may best be characterized as a bottom-up process.
+     Second, the fact that decoding does not necessarily precede linguistic
+ comprehension in terms of a description of reading process does not
+imply that decoding is not separate from linguistic comprehension in
+ terms of a description of reading ability. Questions concerning the
+components of a given process are distinct from questions concerning the
+relationships of those components.
+
+Decoding, Linguistic Comprehension, and Reading Comprehension
+From the standpoint of the simple view of reading, the terms decoding,
+linguistic comprehension, and reading comprehension can be defined as
+follows.
+
+Decoding. For the simple view, skilled decoding is simply efficient word
+recognition: the ability to rapidly derive a representation from printed
+input that allows access to the appropriate entry in the mental lexicon, and
+thus, the retrieval of semantic information at the word level.
+   As argued elsewhere (Gough and Hillinger 1980), for beginning readers
+the representational capability that must be acquired is one that is phono-
+logically based, for the major task confronting beginning readers is one of
+accessing the mental lexicon for known words that have never before been
+seen in print. If the novice can derive appropriate phonological repre-
+sentations for such novel printed inputs, then a lexicon already accessible
+on the basis of phonological         codes through the course of language
+acquisition, can also begin to be accessed on the basis of print.
+   Lexical access via phonological        codes may not predominate skilled
+                         SIMPLE    VIEW    OF READING                           131
+
+reading, such being augmented, as practice accumulates, by a more direct
+graphemically-based     system (for a review, see Henderson 1982). How-
+ever, such direct access systems cannot benefit the beginning reader, for
+in order to acquire a direct access system, both the printed word and its
+pronunciation     must be encountered together at least once, and it is
+precisely because of the rarity of such provided pronunciations                 that
+acquisition of the phonologically-based       system is critical if the non-reader
+is to become literate.
+    Whether the system responsible for generating such phonologically-
+based representations in begi~ing reading is found to incorporate letter-
+sound correspondence rules (e.g., Gough and Tunmer 1986) analogy (e.g.,
+Glushko 1979) or some other process, is not central to the simple view.
+The simple view only requires that the acquired system allow efficient (i.e.,
+fast and accurate) access of the mental lexicon for proper, arbitrary
+orthographic representations.
+    Concerning assessment, in general, an adequate measure of decoding
+skill must tap this ability to access the mental lexicon for arbitrary printed
+words (e.g., by assessing the ability to pronounce isolated real words).
+However, for beginning readers, who must acquire a phonologically-based
+system, an adequate decoding measure must assess skill in deriving
+appropriate phonologically-based        representations of novel letter strings
+(e.g., by assessing the ability to pronounce isolated pseudowords).
+
+ Comprehension. In the simple view of reading, linguistic comprehension is
+the ability to take lexical information (i.e., semantic information at the
+word level) and derive sentence and discourse interpretations. Reading
+comprehension involves the same ability, but one that relies on graphic-
+based information arriving through the eye.
+    A measure of linguistic comprehension          must assess the ability to
+understand language (e.g., by assessing the ability to answer questions
+about the contents of a listened to narrative). Similarly, a measure of
+reading skill must assess the same ability, but one where the comprehen-
+sion process begins with print (e.g., by assessing the ability to answer
+questions about the contents of a read narrative).
+    Relevant to the assessment of comprehension is the debated distinction
+between natural and formal language. Some have argued that this distinc-
+tion reflects a difference between oral and written language (Olson 1977).
+Others, while acknowledging the linguistic differences of text, argue that a
+natural-formal language distinction is independent of modality (Freedman
+and Calfee 1984). The debate will not be joined in this paper, but it is
+important to note that if the simple view of reading is to be adequately
+tested, parallel materials must be employed in the assessments of linguistic
+comprehension and reading comprehension (e.g., if narrative material is
+132          WESLEY     A. HOOVER     AND   PHILIP   B. GOUGH
+
+used in assessing linguistic comprehension, then narrative, as opposed
+to expository, material must also be used in assessing reading compre-
+hension).
+
+
+Specification of the Simple View
+On the simple view, then, reading consists of only two parts, decoding and
+linguistic comprehension, both necessary for reading success, neither suffi-
+cient by itself. If reading (R), decoding (D), and linguistic comprehension
+(L) are each thought of as variables ranging from 0 (nullity) to 1 (perfec-
+tion), then the simple view of reading can be expressed as R = D X L.
+    That decoding and linguistic comprehension are combined multiplica-
+tively captures the relationship of necessity coupled with non-sufficiency:
+progress in reading requires both components be non-zero. To highlight
+the difficulty involved in empirically assessing the multiplicative  claim of
+the simple view, Figure 1 graphically depicts the relationship between
+decoding, linguistic comprehension, and reading comprehension, contrast-
+ing additive and multiplicative   combinations of the two components. Note
+the gross similarities between the two graphs: in general, under each
+account, reading skill increases monotonically     with increases in skill in
+either decoding, linguistic comprehension, or both. The relatively subtle
+difference in this context of overwhelming similarity is that no increase is
+found in reading skill under the multiplicative       combination   whenever
+decoding or linguistic comprehension is zero.
+
+Predictions of the Simple View
+Three testable predictions can be drawn from the simple view. The first
+prediction is that skill in decoding and linguistic comprehension will make
+substantial contributions toward explaining variation in reading compre-
+hension, but that the product of skill in the two components will signifi-
+cantly improve the estimate of reading comprehension over that obtained
+from the linear combination of the two components. That is, an additive
+model, while found to be informative, will not prove to provide a fully
+adequate account of the relationship of decoding and linguistic compre-
+hension to reading comprehension, showing improvement upon inclusion
+of the product of the two components.
+    Second, the simple view holds that poor reading skill results from one
+of three conditions: (a) when decoding skill is adequate but linguistic
+comprehension is weak, (b) when linguistic comprehension is adequate but
+decoding skill is weak, or (c) when both decoding and linguistic compre-
+hension skills are weak. Thus, a second prediction of the simple view is
+that for less skilled readers, the relationship       between decoding and
+linguistic comprehension will be negative.
+                          SIMPLE     VIEW     OF READING
+
+
+
+
+Fig. 1. Graphic depiction of the relationships between decoding (D), linguistic comprehen-
+sion (L), and reading comprehension (R), where each ranges from nullity (0) to perfection
+(1). The top panel displays the additive combination of the components (R = 0.5[D + L]),
+the bottom panel, the multiplicative combination (R = D X L) that represents the simple
+view of reading.
+
+    Third, as the multiplicative   notion of the simple view holds reading
+comprehension to be proportional to decoding and linguistic comprehen-
+sion, the following pattern of linear relationships between linguistic com-
+prehension and reading comprehension for increasing levels of decoding
+skill is predicted. First, the intercept values are predicted to be zero
+because regardless of the level of decoding skill, reading comprehension
+will be null if linguistic comprehension is. Second, the slopes are predicted
+to increase, as the rate of improvement in reading comprehension over
+levels of linguistic comprehension is not constant, but is conditional upon
+decoding skill, increasing in magnitude with increases in decoding skill.
+134           WESLEY    A. HOOVER      AND   PHILIP   B. GOUGH
+
+Third, the slope values are predicted to increase from a floor value of zero
+because regardless of skill in linguistic comprehension, if decoding is null,
+ then reading comprehension will also be null.
+    As an example, for the student whose decoding skill is perfect, an
+ improvement in linguistic comprehension from nullity to perfection results
+in an identical improvement in reading comprehension. However, for the
+student whose decoding skill is only halfway toward perfection, the same
+improvement       in linguistic comprehension       (from nullity to perfection)
+leaves, as incomprehensible,        half of the material that can be read by the
+former student. In sum, for the former student, improvement in reading
+comprehension is one-to-one with improvement in linguistic comprehen-
+sion; for the latter, this ratio is halved.
+    Each of these three predictions was assessed through a secondary
+analysis of a longitudinal data base. The primary study and the secondary
+analyses conducted for this report are described in the next sections.
+
+
+METHOD
+
+
+Subjects
+As this work constitutes a secondary analysis, the primary study’s sam-
+pling plan and the subsample drawn for inclusion in these secondary
+analyses are discussed. As further description of reading-related experi-
+ences, summaries of the primary sample’s pre-reading skills at school
+entry and the reading instruction programs subsequently received are also
+provided.
+
+Sampling plan. The Teaching Reading to Bilingual Children Study was
+conducted by the Southwest Educational             Development      Laboratory
+(SEDL) during the years of 1978-1985       in five sites in Texas. This natural
+variation study tracked 254 English-Spanish bilingual children through the
+early elementary grades. Multiple yearly assessments were made of each
+student’s development in cognition, language, and reading, employing
+multiple instruments within each domain, and assessing both English and
+Spanish skill with respect to the latter two. Relatively extensive classroom
+observations and teacher interviews were also conducted in order to
+document the reading instruction received by each student.
+   The primary study employed a hierarchical sampling plan that focused
+successively at the levels of region, school district, school, classroom, and
+student. Once classrooms had been selected for participation, an assess-
+ment battery was administered to each of the classrooms’ students. Based
+on those assessments, within each classroom, 10 target children were
+selected to provide systematic variation in degree of bilingualism,      cogni-
+                       SIMPLE   VIEW   OF READING                        135
+
+tive style, and gender. Once selected, target students were tracked through
+subsequent classroom assignments effected by the schools’ normal admin-
+istrative procedures without influence from the research team.
+
+ The sample. Over the five years of data collection, 254 bilingual students
+were tracked, 206 students from the beginning of kindergarten and 48
+from the beginning of first grade. All students were followed through
+second grade, 101 through third grade, and 6 1 through fourth grade.
+Given certain restrictions in the primary study’s reading assessment proce-
+dures (discussed later), the secondary analyses were based on data from
+210 students at first grade, 206 at second grade, 86 at third grade, and 55
+at fourth grade.
+
+Pre-reading skills. Upon entering the study, each student’s pre-reading
+skills were assessed employing the Stanford Foundation Skills Test (Calfee
+and Associates 1978, 1980). The sample’s performance on the assess-
+ments of English skills at kindergarten entry can be summarized as
+follows: (a) about half the students knew the alphabet; (b) visual matching
+skills were highly developed; (c) sight word recognition was minimal; (d)
+phonemic segmentation training, based on the rhyming of familiar words,
+was generally successful, but the transfer of this skill to novel items was
+difficult for some; and (e) vocabulary knowledge was high relative to the
+ability to retell listened to stories.
+
+ Reading instruction. Each of the study’s sites had developed both English
+ and Spanish reading programs. In four of the sites, Spanish-speaking
+ students with low English oral skills at school entry generally began
+ reading instruction exclusively in Spanish; in the remaining site, all
+ students initially received both English and Spanish reading instruction.
+ Transition to exclusive English reading instruction was a goal of each site,
+ and transition criteria included both the students’ English oral skills and
+ achievement in English and/or Spanish reading skills.
+    The general type of English reading instruction received varied by site
+and teacher. The instructional emphasis in two of the sites was one of
+“skills development,” where the components of decoding, vocabulary, and
+text comprehension were given relatively equal attention during the early
+phases of instruction. In two other sites, reading instruction focused
+heavily on letter-sound correspondences and word attack skills in the
+early stages, with increased attention given to comprehension skills as
+decoding facility improved. In the final site, the reading program was
+characterized by individualized     instruction managed through student
+contracts. The orientation was strongly “meaning-based,” with little formal
+instruction in letter-sound correspondences until after the child had
+gained some reading fluency. Two years into the study at this site, the
+136          WESLEY     A. HOOVER      AND      PHILIP   B. GOUGH
+
+
+district shifted to a basal reading program, thus abandoning their individ-
+ualized approach for a more traditional small-group instructional proce-
+dure. (Detailed accounts of the instruction received by these students,
+based on classroom observations and teacher interviews, can be found in
+Hoover, Calfee, and Mace-Matluck      1984b.)
+
+Sample suitability. As noted by Gough and Tunmer (1986), an assessment
+of the predictions of the simple view of reading requires a data base where
+evidenced reading skills are not so highly developed that both the
+independence of component skills and their variability are restricted. The
+SEDL data base, representing varying degrees of student bilingualism,
+decoding skill, and reading comprehension skill, met these criteria.
+
+Tasks, Materials, Scoring, and Administration
+The SEDL study employed the Interactive Reading Assessment System
+(IRAS) (Calfee and Calfee 1979, 1981) as one set of yearly administered
+reading assessments. The instrument consists of nine subtests, individually
+administered, requiring from 45 to 90 minutes to complete. Each test was
+given by trained personnel at the individual student’s school, audio taped,
+and subsequently scored by SEDL staff based on both the tape and
+written protocols completed during testing.
+    Given the program emphasis on English reading in the primary study’s
+sites, only English literacy indices were analyzed here. In what follows, the
+three subtests relevant to these analyses are discussed, providing details on
+the structure of each, the materials, and the scoring procedures employed
+in deriving summary indices of performance.
+
+Synthetic word decoding. In this IRAS subtest, the student was presented
+with six lists of synthetic words, the first four lists containing 6 items each
+and the remaining two lists, 9 items each. All 42 items conformed to
+English orthography, and lists were ordered by difficulty ranging from
+simple monosyllabic CVC patterns to polysyllabic items containing blends,
+digraphs, and vowel variations (e.g., from hin and pame in the lowest
+ordered list to rhosmic and conspartuble in the highest ordered list).
+Before being asked to read the synthetic words aloud, the student was told
+that the items were not real words and had no meaning, but could be
+pronounced like English words. Each student began on the easiest list and
+proceeded to more difficult lists as long as responses were attempted to at
+least half of the list’s items. Once this criterion was not met, performance
+on subsequent lists was not assessed, assuming failure.
+   For the lists of synthetic words, each item was scored as follows. A
+value of 3 was assigned to any item that was pronounced without error. A
+value of 2 was given to those responses that were mostly correct (i.e.,
+                       SIMPLE   VIEW   OF   READING                       137
+
+completely correct except for a minor letter-sound error such as a vowel
+shift within vowel family, a stress variant, or pronunciation of a final e). A
+value of 1 was given for responses that were partly correct (i.e., completely
+correct except for a single vowel or consonant substitution or deletion). A
+value of 0 was assigned for assumed failure, no response, or mispronun-
+ciations beyond those tolerated in the above categories. Note that the
+scoring was fairly stringent as two major errors within an item resulted in
+a score of 0 (e.g., pronouncing ufiemiution   as ufiematon).
+    Student performance over the lists was represented by a critical index
+(the rationale for this measure is given in Hoover, Calfee, and Mace-
+Matluck 1984a). The integer portion of the index represented the ordinal
+value of the list of highest success (ranging from 0 to 6 in this task), where
+success on a given list was achieved if half or more of its items were at
+least minimally correct (i.e., received a value of 1 or more). To this value a
+decimal was added that was the ratio of assigned points to total possible
+points on the list of highest success. Thus, scores for this scale were
+bounded by 0.00 and 6.99 (completely correct responses to all items at
+the level of highest success were given decimal values of 0.99).
+    In the primary study, reliability analyses of each of the IRAS subscales
+were conducted during each of the five years of data collection. Over this
+period, the average reliability index (Cronbach’s coefficient alpha) for the
+synthetic word decoding task was 0.95.
+
+Reading and listening comprehension. The final IRAS subtests assessed
+the students’ comprehension of texts, both for material read by the student
+(reading comprehension)       and for parallel material read to the student
+(listening comprehension).      The comprehension component consisted of
+nine ordered levels, with each of the first six levels containing two well-
+formed narrative passages, parallel in structure, one to be used in the
+assessment of reading comprehension,          the other in testing listening
+comprehension.     The final three levels contained only passages for the
+assessment of reading comprehension under the assumption that students
+who successfully read beyond level six (roughly corresponding to begin-
+ning fourth-grade basal material) were only limited by their comprehen-
+sion abilities. Passages across levels were ordered in difficulty based on
+constituent word frequency, number of words per sentence, number of
+sentences, and number of propositions expressed per sentence. Each story
+conformed to the principles of story grammar, and associated with each
+element (e.g., setting, initiating event, attempt, outcome) was a probe
+question.
+     In reading comprehension, the student was presented with the appro-
+priate narrative and asked to read it, aloud in the first four levels and
+silently in the last five levels (these being appropriate for the grade-level
+equivalents of the passage). Once finished reading, the student was asked
+138          WESLEY     A. HOOVER     AND   PHILIP   B. GOUGH
+
+to retell as much of the story as could be remembered. After completing
+this free recall task, any element that was not adequately recalled was then
+probed with the corresponding question. If half or more of the elements
+were mentioned under either free or cued recall, then more difficult levels
+were presented following the same procedures until this criterion was
+failed. For students not successful in reading comprehension             at the
+seventh level or higher, listening comprehension was assessed using the
+same procedures.
+    Each narrative element was assigned a single value ranging from 0 to 7
+based on the quality of response under both free and cued recall: (a) a
+value of 7 was given to any element recalled completely under free recall;
+(b) a value of 6 was assigned to elements briefly mentioned in free recall
+(i.e., some, but not all, of the propositions expressed in the element were
+given), but recalled completely in cued recall; (c) a value of 5 was given to
+elements not mentioned in free recall, but completely given in cued recall;
+(d) a value of 4 was assigned to elements only briefly mentioned in both
+free and cued recall; (e) a value of 3 was given to elements briefly
+mentioned in free recall, but incorrectly recalled in cued recall; (f) a value
+of 2 was assigned to elements not mentioned in free recall, but briefly
+mentioned in cued recall; and (g) a value of 0 was given to elements not
+mentioned under either free or cued recall.
+    As final summary indices of performance, critical indices were com-
+puted. As before, the integer portion of the index represented the level of
+highest success, where success on a given narrative was achieved if half or
+more of the narrative’s elements were at least minimally          correct (i.e.,
+received a value of 2 or more). The decimal portion of the value was the
+ratio of assigned points to total possible points at the level of highest
+success. Thus, for reading comprehension, the index was bounded by 0.00
+and 9.99; for listening comprehension, by 0.00 and 6.99.
+    For the purposes of the primary study, the reading comprehension
+index was used as an estimate of listening comprehension skill for those
+students not assessed in the latter because of success in reading at the
+seventh or higher levels. This procedure was followed in these secondary
+analyses as well. The number of such estimates and their percentage of the
+corresponding grade-level sample were as follows: 1 case in Grade 1
+(0.5%), 7 cases in Grade 2 (3.4%), 17 cases in Grade 3 (19.8%) and 22
+cases in Grade 4 (40.0%). Given the large proportion of such cases in the
+fourth-grade set, interpretations of the fourth-grade results must be made
+cautiously as these procedures may underestimate the listening compre-
+hension skills of these students.
+     As mentioned earlier, reliability analyses of both listening and reading
+comprehension subscales were conducted during each of the five years of
+data collection. These analyses were conducted at the level of individual
+narratives, and over the five year period, the average reliability index
+                        SIMPLE   VIEW   OF READING                         139
+
+(Cronbach’s coefficient alpha) for the listening comprehension      narratives
+was 0.87; for the reading comprehension narratives, 0.84.
+
+Administration    procedures. Complex administration     procedures linking
+the IRAS subtests were developed by the SEDL research team in an effort
+to reduce testing time. In certain cases these procedures allowed no testing
+of reading comprehension (assuming failure) when decoding skills were
+minimal (for full details, see Hoover et al. 1984a). In these secondary
+analyses, all such cases were dropped (thus, the reduction in sample size
+described earlier).
+
+
+RESULTS   AND DISCUSSION
+
+The descriptive statistics and intercorrelations    summarizing the sample’s
+performance at each grade level are displayed in Table 1. At the end of
+first grade, skill in decoding was relatively low with the average student
+succeeding on only the simplest synthetic words presented. For listening
+comprehension,       average first-grade performance was at the third-level
+narrative, but only at the first-level narrative for reading comprehension,
+reflecting the average low level of decoding skill. Skill in each of the areas
+increased over grade levels with the largest increases in performance
+evident in the second grade (though the differences in sampling repre-
+sented at the remaining two grade levels, which are also confounded by
+site, complicate these grade-level comparisons).
+     The correlations between components were all positive and highly
+significant. The lowest coefficients within each grade level were between
+the decoding and listening comprehension indices. The component corre-
+lations with their product showed the relatively stronger contribution of
+the decoding index, especially in the early grades, reflecting the greater
+number of zero values it contained (121 versus 19 in Grade 1, and 32
+versus 2 in Grade 2, for decoding and listening comprehension, respec-
+ tively). Finally, for the correlations with reading comprehension,        the
+largest values were for the product of the decoding and listening compre-
+hension indices, with the next largest values for the decoding index in the
+first two grades, but for the listening comprehension index in the last two
+grades. This shift in correlational pattern with grade level agrees with that
+found in the earlier cited studies. However, the large proportion            of
+listening comprehension estimates in the fourth-grade data complicates
+this interpretation.
+
+Prediction 1
+The first prediction   drawn from the simple view was that skill in decoding
+140             WESLEY        A. HOOVER          AND        PHILIP     B. GOUGH
+
+Table 1. Descriptive statistics and intercorrelations       of variables
+
+Variables                          I                    2                          4
+
+                                       Gradel(N=210)
+1. Decoding                                             0.42                0.95   0.84
+2. Listening                                                                0.50   0.46
+3. Product                                                                         0.84
+4. Reading
+Mean                               1.26                 3.01                5.66   0.92
+Standard deviation                 2.06                 2.16               10.79   1.45
+                                       Grade 2 (N = 206)
+1. Decoding                                             0.59                0.95   0.80
+2. Listening                                                                0.70   0.71
+3. Product                                                                         0.85
+4. Reading
+Mean                               3.68                 5.00               21.11   3.22
+Standard deviation                 2.40                 1.92               15.47   2.11
+                                          Grade 3 (N = 86)
+1. Decoding                                             0.54                0.89   0.15
+2. Listening                                                                0.81   0.80
+3. Product                                                                         0.91
+4. Reading
+Mean                               4.94                 5.74               30.63   4.44
+Standard deviation                 2.15                 1.98               16.86   2.47
+                                          Grade 4 (N = 5 5)
+1. Decoding                                             0.72                0.97   0.84
+2. Listening                                                                0.79   0.87
+3. Product                                                                         0.91
+4. Reading
+Mean                               5.35                 6.67               37.58   5.84
+Standard deviation                 2.06                 1.31               15.55   2.00
+
+For all correlation coefficients, p < 0.001.
+
+
+and linguistic comprehension would make significant contributions toward
+explaining variation in reading comprehension, but that the product of the
+two components would improve the estimate over that obtained from their
+linear combination.    To assess this prediction, a hierarchical multiple
+regression was run on each of the four grade-level data sets, entering the
+decoding and listening comprehension indices first, then the product of
+the two on the second step. The results of these analyses are summarized
+in Table 2.
+    As seen in the top panel of the table, at each grade level a substantial
+proportion of the variance in reading comprehension was accounted for
+                            SIMPLE   VIEW     OF READING                           141
+
+Table 2. Summary of regression analyses
+
+Variable           Multiple R              R square           F change             P
+                                           change
+
+                     Component Terms Followed by Product Term
+                                          Grade 1
+Linear              0.849                  0.721              267.70              0.000
+Product             0.856                  0.011                 8.80             0.003
+                                          Grade 2
+Linear              0.853                  0.728              271.87              0.000
+Product             0.865                  0.020               16.16              0.000
+                                          Grade 3
+Linear              0.884                  0.782              148.62              0.000
+Product             0.921                  0.067               35.95              0.000
+                                          Grade 4
+Linear              0.922                  0.851              148.36              0.000
+Product             0.948                  0.048               24.34              0.000
+                      Product Term Followed by Component Terms
+                                          Grade 1
+Product             0.843                  0.711              511.11              0.000
+Linear              0.856                  0.022                 8.41             0.000
+                                          Grade 2
+Product             0.848                  0.720              523.27              0.000
+Linear              0.865                  0.029               11.55              0.000
+                                          Grade 3
+Product             0.911                  0.830              409.91              0.000
+Linear              0.921                  0.018                 4.95             0.009
+                                          Grade 4
+Product             0.909                  0.826               251.29             0.000
+Linear              0.948                  0.073                18.50             0.000
+
+Linear = Linear combination of the individually weighted decoding and listening compre-
+hension indices.
+Product = Product of the decoding and Listening comprehension indices.
+
+
+by the linear combination of the decoding and listening comprehension
+indices, ranging from 0.72 at Grade 1 to 0.85 at Grade 4 (though the
+value at Grade 4 is inflated due to the estimation procedure discussed
+earlier). However, the product of these two indices accounted for an
+additional significant proportion of variance, ranging from 0.01 at Grade 1
+142          WESLEY     A. HOOVER      AND   PHILIP   B. GOUGH
+
+to 0.07 at Grade 3. These findings are consistent with the contentions of
+the simple view, namely, that decoding and linguistic comprehension are
+substantially related to reading comprehension,         but further, that their
+relationship is conditional.
+    While the results show that the additive (i.e., linear) model provides an
+inadequate account of the data, and that such a model is improved by
+inclusion of the product term, it does not show the superiority of the
+multiplicative  notion of the simple view. Equity would dictate that to test
+this, the regression should be run in the reverse order, entering the
+product of decoding and listening comprehension on the first step and the
+two individual components on the second step. The results of such an
+analysis for each grade-level data set appear in the bottom panel of
+Table 2.
+     As was true in the first regression analysis, at each grade level a
+substantial proportion of the variance in reading comprehension was
+accounted for by the product of the decoding and listening comprehension
+indices, ranging from 0.71 at Grade 1 to 0.83 at Grade 3. On the second
+step, the linear components accounted for an additional              significant
+proportion of variance, ranging from 0.02 at Grades 1 and 3 to 0.07 at
+Grade 4. These findings, symmetrical with the earlier regression results,
+ complicate the interpretation,     suggesting that neither the additive nor
+multiplicative  account is adequate alone, but that components of both are
+needed. These outcomes should be interpreted in the following context.
+     In the additive case, the regression procedure combines the two
+ components (decoding and listening comprehension) with optimal weights
+ to maximize the least squares fit to the reading comprehension data. In the
+multiplicative   case, the individual components can not be weighted in
+ the same manner: multiplication       of either component by a constant is
+ equivalent to multiplication    of the product of the components by that
+ constant, a manipulation      that has no effect on the strength of the
+ relationship of the product to the criterion variable. This advantage in
+ weighting is what prevents a fair comparison of the multiplicative           and
+ additive notions by contrasting the simple r of reading comprehension and
+ the product of the two components with either the simple Y of reading
+ comprehension and the sum of the two components (a procedure that
+ combines the components with arbitrary weights) or the multiple R
+ obtained from the regression on decoding and listening comprehension (a
+ procedure that combines the components with optimal weights).
+     However, in maximizing the least squares fit of the product of decoding
+ and listening comprehension to reading comprehension, adjustments made
+ to the zero points of the two component terms could significantly alter the
+ relationship with the criterion variable. Such adjustments to the com-
+ ponent terms are expressed in the following equation:
+
+   R = a, + b&a, + 0) (a3 + L)]
+                            SIMPLE         VIEW     OF READING                               143
+
+Expanding the terms shows that the equation represents the linear sum of
+a constant and the individually weighted component terms and product:
+
+    R = (a, + b,a,u,) -t- (b,@)           + (&a&)         + (b,DL)
+
+In short, if the multiplicative notion of the simple view is true and non-
+zero adjustments to the zero points of the component terms are optimally
+made, then the regression including both additive and multiplicative terms
+will be superior to the regression containing only the additive or the
+multiplicative  terms. The difficulty, of course, is in finding the optimal
+zero-points for the component terms.
+
+Prediction 2
+The second prediction drawn from the simple view was that for less
+skilled readers an inverse relationship     would hold between skill in
+decoding and linguistic comprehension.      To assess this prediction, the
+correlation between decoding and listening comprehension was computed
+within each grade level for subsamples of students defined by successively
+reduced reading comprehension skill. That is, after computing the correla-
+tion over the entire sample within a grade level, the correlation was next
+computed for the same students less those successful on the highest level
+passage, followed in turn by computing the correlation for all students less
+those successful at either of the top two passages, continuing in this
+manner until the sample included only those who were not successful on
+the first passage presented. The results of these analyses are summarized
+in Table 3, providing the sample size at each reduction, the correlation
+
+
+Table 3. Descriptive statistics and correlations between decoding and listening compre-
+hension for successive sample reductions based on decreasing reading comprehension skill
+
+MaxR             n                Correlation                    Descriptive statistics
+                                                                 (mean and standard deviation)
+                      r                   P               D          L          P            R
+
+                                                Grade 1
+I          210            0.422           0.000           1.26       3.01         5.66       0.92
+                                                          2.06       2.16        10.79       1.45
+2          184            0.257           0.000           0.77       2.73         2.96       0.51
+                                                          1.57       2.13         7.30       0.98
+1          157            0.003           0.487           0.35       2.47         0.86       0.14
+                                                          1.00       2.14         3.00       0.43
+0          144        -0.125              0.067           0.15       2.40         0.21       0.02
+                                                          0.52       2.20         0.88       0.10
+144               WESLEY      A. HOOVER              AND     PHILIP      B. GOUGH
+
+Table 3 (Continued)
+
+Max R             n                 Correlation                       Descriptive statistics
+                                                                      (mean and standard deviation)
+                       r                    P               D             L          P            R
+
+
+                                                  Grade 2
+           206             0.592            0.000           3.68         5.00        21.11        3.22
+                                                            2.40         1.92        15.47        2.11
+           193             0.555            0.000           3.51         4.85        19.49        2.96
+                                                            2.39         1.88        14.55        1.91
+           163             0.498            0.000           3.10         4.59        16.48        2.48
+                                                            2.34         1.93        13.45        1.69
+           141             0.471            0.000           2.81         4.41        14.55        2.16
+                                                            2.34         2.00        13.10        1.59
+             87            0.43 1           0.000           1.89         3.80         9.30        1.19
+                                                            2.22         2.23        12.03        1.27
+             57            0.271            0.02 1          0.92         3.07         3.87        0.38
+                                                            1.71         2.33         8.27        0.72
+0            45        -0.087               0.285           0.25         2.52         0.46        0.02
+                                                            0.83         2.20         2.11        0.05
+                                                  Grade 3
+8            86            0.543            0.000           4.94          5.74       30.63        4.44
+                                                            2.15          1.98       16.86        2.47
+6            69            0.476            0.000           4.61          5.29       26.46        3.67
+                                                            2.26          1.96       16.13        2.14
+5            62            0.440            0.000           4.43          5.11       24.66        3.36
+                                                            2.31          1.99       15.96        2.03
+3            40            0.285            0.037           3.53          4.44       17.14        2.24
+                                                            2.41          2.17       14.94        1.65
+2            22            0.019            0.467           2.50          3.50        8.86        1.02
+                                                            2.39          2.46       12.32        1.26
+0            13        -0.546               0.027           1.49          2.59        1.03        0.04
+                                                            2.14          2.62        3.00        0.07
+                                                  Grade 4
+8            55            0.717            0.000           5.35          6.67       37.58        5.84
+                                                            2.06          1.31       15.55        2.00
+6            33            0.645            0.000           4.62          6.05       30.01        4.67
+                                                            2.38          1.36       15.89        1.77
+4            12            0.569            0.027           2.59          5.17       16.01        2.75
+                                                            2.62          1.92       16.29        1.57
+
+
+Max R = Maximum reading comprehension level included in the subsample
+D = Decoding index
+L = Listening comprehension index
+P = Product of decoding and listening comprehension indices
+R = Reading comprehension index
+                          SIMPLE    VIEW     OF READING                             145
+
+coefficient and its significance level, and the descriptive statistics for each
+variable (decoding, listening comprehension, their product, and reading
+comprehension).
+    First, note from the descriptive statistics tabled that within each of the
+four grade levels represented, as the sample was reduced based on
+decreasing reading comprehension        skill, aggregate skills in each of the
+other indices (decoding, listening comprehension, and their product) also
+decreased. Within each grade level, the correlations were significantly
+positive when computed over the entire grade-level sample, with coeffi-
+cients ranging from 0.42 in Grade 1 to 0.72 in Grade 4. As the sample
+was reduced, the coefficients declined in magnitude to values not signifi-
+cantly different from zero, and in Grades 1 and 3, to values that were
+negative (approaching significance for the former, and significant for the
+latter).
+    It is possible that these results are artifactual. As the samples are
+reduced, a few outliers off the diagonal could lead to negative correlations.
+Note, however, that this argument is symmetric: if measurement error
+is responsible for negative correlations as the samples are successively
+restricted to the weakest readers, then it should similarly constrain the
+correlational trends as the samples are successively restricted to include
+only the strongest readers. Accordingly, analyses were conducted identical
+to the ones above, save that sample reduction was based on increasing (as
+opposed to decreasing) reading comprehension skill. The results of these
+analyses are summarized in Table 4.
+    As expected from the simple view, and in contrast to the results
+ displayed in Table 3, aggregate skills in decoding, listening comprehen-
+ sion, and their product increased as the sample was reduced based on
+
+Table 4. Descriptive statistics and correlations between decoding and listening compre-
+hension for successive sample reductions based on increasing reading comprehension skill
+
+MinR       n          Correlation                 Descriptive statistics
+                                                  (mean and standard deviation)
+                      r             P             D          L           P          R
+
+                                        Grade I
+0          210        0.422         0.000         1.26       3.01         5.66      0.92
+                                                  2.06       2.16        10.79      1.45
+1              66     0.566         0.000         3.70       4.34        17.56      2.89
+                                                  2.05       1.34        12.77      1.00
+2              53     0.647         0.000         3.98       4.61        19.90      3.22
+                                                  1.98       1.23        12.83      0.80
+3              26     0.608         0.001         4.73       5.00        24.80      3.80
+                                                  1.77       1.10        12.19      0.79
+146                  WESLEY      A. HOOVER         AND PHILIP       B. GOUGH
+
+Table 4 (Continued)
+
+MinR        n            Correlation                     Descriptive statistics
+                                                         (mean and standard deviation)
+                          r                P             D          L            P       R
+                                                                             -
+
+                                               Grade 2
+0          206           0.592             0.000         3.68       5.00         21.11   3.22
+                                                         2.40       1.92         15.47   2.11
+1          161           0.256             0.001         4.64       5.69         26.88   4.11
+                                                         1.72       1.09         12.32   1.41
+2          149           0.307             0.000         4.74       5.74         27.70   4.30
+                                                         1.68       1.03         12.13   1.29
+3          119           0.304             0.000         4.99       5.88         29.74   4.70
+                                                         1.54       0.97         11.49   1.14
+4            65          0.367             0.001         5.57       6.29         35.33   5.50
+                                                         1.12       0.78          9.54   0.95
+5            43          0.409             0.003         5.87       6.54         38.65   6.00
+                                                         0.91       0.73          8.48   0.79
+6               13       0.457             0.058         6.19       7.27         45.10   7.03
+                                                         0.54       0.48          5.93   0.70
+                                               Grade 3
+0            86          0.543             0.000         4.94       5.74         30.63   4.44
+                                                         2.15       1.98         16.86   2.47
+1            73          0.539             0.000         5.56       6.30         35.91   5.22
+                                                         1.46       1.18         12.16   1.76
+3            64          0.43 1            0.000         5.79       6.50         38.12   5.61
+                                                         1.23       0.97         10.51   1.50
+4            46          0.059             0.349         6.17       6.86         42.36   6.36
+                                                         0.60       0.73          6.42   1.06
+6            24          0.270             0.101         6.27       7.34         46.08   7.24
+                                                         0.55       0.46          5.49   0.60
+7               17       0.180             0.244         6.29       7.56         47.56   7.56
+                                                         0.58       0.31          5.09   0.31
+                                               Grade 4
+0               55       0.717             0.000         5.35       6.67         37.58   5.84
+                                                         2.06       1.31         15.55   2.00
+5            43          0.358             0.009         6.12       7.09         43.60   6.70
+                                                         0.93       0.64          8.44   0.99
+7               22       0.039             0.432         6.44       7.60         48.92   7.60
+                                                         0.40       0.26          3.52   0.26
+                                       -
+Min R = Minimum reading comprehension level included in the subsample
+D = Decoding index
+L = Listening comprehension index
+P = Product of decoding and listening comprehension indices
+R = Reading comprehension index
+                        SIMPLE     VIEW   OF READING                           147
+
+increasing reading comprehension         skill. Within each grade level, the
+correlations were positive, though at the smaller sample sizes within
+Grades 3 and 4, they were not significantly different from zero. These
+results fail to support an artifactual interpretation       of the correlational
+trends found within the weaker readers. Indeed, one finds outliers
+distributed within the weaker readers of just the type predicted by the
+simple view, namely, children with (a) poor listening comprehension skill
+coupled with relatively stronger decoding skill, and @) poor decoding skill
+coupled with relatively stronger listening comprehension           skill. For the
+strongest readers, such a distributional       pattern is neither predicted nor
+found.
+    Note that both additive and multiplicative        combinations of decoding
+and linguistic comprehension       predict the obtained trend of positive
+correlations in skilled readers becoming negative correlations in unskilled
+readers. Thus, this evidence cannot inform any selection between these
+conceptions. Nonetheless, the result is important in demonstrating the
+separate contributions     of decoding and linguistic comprehension              to
+reading ability, as the trend is consistent with the view that for skilled
+reading, skill in both components is required, while a weakness in either
+component is sufficient for less skilled reading.
+
+Prediction   3
+The third prediction drawn from the simple view was that as the level of
+decoding skill increased, the pattern of linear relationships between
+linguistic comprehension      and reading comprehension would reveal (a)
+constant intercept values of zero and (b) positive slope values increasing in
+mangnitude from a floor value of zero. Unlike the previous prediction, this
+one can distinguish between additive and multiplicative        combinations of
+decoding and linguistic comprehension, as the additive conception pre-
+dicts (a) intercept values that increase from a floor value of zero (rather
+than constant zero-valued intercepts), and (b) positive, but constant, slope
+values (rather than positive slope values that increase in magnitude from a
+floor value of zero).2
+    In assessing this prediction, intercept and slope values expressing the
+linear relationship between listening and reading comprehension            were
+computed within each grade level for various subsamples of students
+equated on decoding skill. In this analysis, decoding skill levels were
+defined by the list of highest success (i.e., the integer value of the decoding
+index, disregarding the decimal value). Some decoding skill levels were
+collapsed in certain instances to obtain sample sizes that would provide
+reasonably trustworthy estimates of the linear indices. As expected, in the
+early grades such pooling was restricted to the higher decoding skill levels,
+while in the latter grades, pooling was confined to the lower levels. The
+148               W E S L E Y A. H O O V E R     A N D P H I L I P B. G O U G H
+
+results of these anlayses are displayed in Table 5, giving the number of
+students contained in each decoding skill subsample, the intercept and
+slope values, and their associated significance levels.
+   For the first-grade data, decoding levels 2, 3, and 4 (containing 2, 5,
+and 10 students, respectively) were collapsed into a single group (thus
+representing students whose decoding indices ranged from 2.00 to 4.99);
+decoding levels 5 and 6 (with 12 and 13 students) were also combined. As
+seen in Table 5, for each of the decoding skill groups, none of the inter-
+cept values differed significantly from zero. The slope values, however,
+were significantly positive, with the exception of that associated with the
+lowest decoding skill subsample, which did not differ from zero. Further,
+these slopes showed the predicted increases in magnitude with increases in
+the level of decoding skill (evidence concerning the statistical significance
+of these apparent increases is presented later).
+   For the second-grade data, only decoding levels 2 and 3 were pooled
+
+Table 5. Intercept and slope for the linear relationship between reading and listening
+comprehension at various levels of decoding
+
+Decoding levels            n            Intercept                         Slope
+
+                                        Value             p               Value   p
+
+
+                                           Grade 1
+0--0.99                    135            0.02            0,223           0.00    0.310
+1--1.99                     33            0.39            0.173           0.47    0.000
+2--4.99                     17            0.58            0.102           0.54    0,000
+5--6.99                     25            0.07            0,468           0.64    0.000
+                                           Grade 2
+0--0.99                        45       -0.14             0,162           0.11    0.003
+1--1.99                        22         1.20            0,046           0.38    0.004
+2--3.99                        17         0.76            0,155           0.48    0.001
+4--4.99                        43         1.32            0.064           0.41    0.006
+5--5.99                        38         0.07            0.472           0.79    0,000
+6--6.99                        41       -3.18             0.003           1.31    0.000
+                                           Grade 3
+0--1.99                        13         0.23            0.388           0.17    0.183
+2--4.99                        15       -0.31             0.285           0.77    0.000
+5--5.99                        18       -1.06             0.161           0.98    0.000
+6--6.99                        40       -3.74             0.000           1.44    0.000
+                                           Grade 4
+0--4.99                        12       --1.24            0.139           0.84    0.001
+5--5.99                        11       --3.26            0,114           1.35    0.003
+6--6.99                        32       --4.16            0.000           1.53    0.000
+                        SIMPLE   VIEW   OF READING                          149
+
+(containing 4 and 13 students, respectively). The intercept values were not
+significantly different from zero with two exceptions. One value was
+positive, but only marginally close to the 0.05 significance level, while a
+second value, that associated with the highest decoding skill group, was
+substantially negative. The slope values were all significantly positive, and
+again, increased in magnitude with decoding skill.
+     For the third-grade data, decoding levels 0 and 1 were collapsed (with
+ 9 and 4 students, respectively) and levels 2, 3, and 4 (with 1, 4, and 10
+students). The intercepts again did not significantly differ from zero with
+the exception of the value associated with the highest decoding skill group,
+which, as in the second-grade data, was substantially negative. The slope
+values again increased in magnitude with the level of decoding skill, each
+significantly positive, except for that associated with the group of lowest
+decoding skill, which did not differ from zero.
+    Collapsing decoding levels 0 through 4 (with 5, 2, 1, 1, and 3 students,
+respectively), the fourth-grade data followed the pattern found in the
+second-grade data: intercepts not significantly different from zero except
+for the highest decoding skill group (with a large negative value), and
+significantly positive slopes that increased in magnitude with decoding
+skill.
+    Overall, for the 17 intercept values computed over the four grade-level
+data sets, none differed significantly from zero, with the exception of one
+value within the second-grade data set that was only marginally significant,
+and three large negative values that were associated with the highest
+decoding skill group within the second-, third-, and fourth-grade data sets,
+respectively. These latter values are most likely artifacts reflecting a ceiling
+effect in the decoding assessment, influencing the linear estimates as
+follows. For the sample of students successful in decoding the highest level
+list presented, the best decoders (i.e., those who would have decoded
+higher level lists had such been available) were pooled with those of lower
+skill (i.e., those who were successful on the most difficult list available, but
+who would not have been successful on any more difficult lists had such
+been presented). Such pooling results in the (expected) greater reading
+comprehension skills of the former group of students contributing large
+positive (i.e., outlier) values relative to the latter group, leaving the
+intercept values deflated and the slope estimates inflated. Thus, in general,
+the obtained intercept values conform to the prediction of the multiplica-
+tive notion expressed in the simple view of reading.
+    For the corresponding 17 slope values, all were significantly positive
+with the exception of two zero values, those associated with the lowest
+decoding skill groups within the first- and third-grade data sets. As
+discussed earlier, the simple view predicts zero-valued slopes for students
+completely lacking decoding skills. However, students in the lowest
+decoding skill groups in these analyses may, nonetheless, possess some
+150            WESLEY   A. HOOVER     AND   PHILIP   B. GOUGH
+
+
+decoding skill. First, the easiest list of synthetic words presented to these
+students did not necessarily contain the simplest items that could be
+decoded with the most rudimentary of decoding skills. Thus, the lowest
+level of material may be relatively insensitive to the lowest levels of
+decoding skill. Second, the upper boundary defining the lowest decoding
+skill group was 0.99 for the first- and second-grade analyses, and 1.99 and
+4.99 for the third- and fourth-grade analyses, respectively. As such, for
+each grade level the ranges of skill included in the lowest decoding skill
+group allowed for at least some success in decoding, though it may not
+have been sufficient to meet the criterion for success on the lowest level
+list presented (i.e., not succeeding on the lowest level list, but correctly
+decoding one or two of the six items it contained).
+    Thus, for these groups of low skill decoders, the simple view does not
+predict slope values of zero, but rather values that are the lowest of any
+associated with a group possessing greater decoding skill. As seen in Table
+5, the data followed just this pattern.
+    To assess the statistical trustworthiness of the slope increases, the
+correlation between decoding skill (using each group’s mean decoding
+value) and slope value was computed. Cautioning that these estimates are
+not independent (given the longitudinal         nature of the data base), the
+correlation over the 17 relevant pairs was significantly positive (r[16] =
+0.85, p < 0.001); the coefficient was only slightly reduced when the
+inflated slope estimates from the highest decoding skill groups within each
+grade level were dropped (r[12] = 0.81, p < 0.001). Thus, these findings
+indicate that the rate of improvement         in reading comprehension    over
+levels of listening comprehension       increased with decoding skill, such
+predicted by the simple view.
+    To summarize, in accord with the third prediction of the simple view,
+the results generally indicated that as the level of decoding skill increased,
+the linear relationships between listening comprehension         and reading
+comprehension were characterized by constant intercept values of zero
+and positive slope values increasing in magnitude.
+
+
+IMPLICATIONS
+
+
+A simple view of reading has been proposed holding that reading consists
+of only two components, decoding and linguistic comprehension. The
+simple view holds that neither component is sufficient for skilled reading,
+but rather, that skill in both components is necessary if skill in reading is
+to advance.
+   The simple view does not deny the complexity of reading, but asserts
+that such complexities are restricted to either of the two components.
+Consider a more complex model proposed by Calfee and Drum (1986),
+                       SIMPLE    VIEW   OF READING                         151
+
+where reading is held to consist of decoding, vocabulary, sentence
+comprehension, paragraph comprehension, and text comprehension. The
+simple view, while not denying the added complexity, argues that the last
+four components are constituents of linguistic comprehension. Impor-
+tantly, such a simplification     explicitly states that these skills are not
+specific to reading, that advancement in any one represents advancement
+in linguistic skill, such also advancing reading skill to the degree allowed
+by skill in decoding.
+    While the simple view provides an adequate account of reading, the
+task remains to define the components underlying decoding and linguistic
+comprehension. Thus, might the vocabulary and sentence comprehension
+skills specified in the Calfee and Drum (1986) model be combined
+multiplicatively,   and if so, how might their product be combined with the
+additional proposed skill areas of paragraph and text comprehension?
+Answers to these questions await further research.
+    While acknowledging these issues, the simple view of reading does have
+several important implications, these concerning the practice of reading
+ instruction, the definition of reading disability, and the notion of literacy.
+Each of these is discussed below.
+
+Reading Instruction
+The simple view suggests that instruction that advances skill in either
+decoding or linguistic comprehension will promote skill in reading as long
+as skill in neither component is nil. The instructional implications for both
+components are treated in turn below.
+
+Decoding. While language is naturally acquired by the normal child
+through exposure in the context of human interaction, the acquisition of
+decoding is not, formal instruction generally being required (Calfee and
+Drum 1986; Gough and Hillinger 1980; Stanovich 1986). The difficulty in
+acquiring decoding skills is that a natural strategy based on selective
+association (the pairing of a partial stimulus cue to a response), while
+initially successful in linking the printed and spoken word, has limited
+utility: selective association will not permit the recognition of novel printed
+words, and for the beginning reader, print novelty is ubiquitous (Gough
+and Hillinger 1980; Jorm and Share 1983). In alphabetic systems, if the
+child can learn the systematic relationship between the units of the printed
+and spoken word, then novel printed words can be accessed without the
+requirement imposed by the associative process that such novel words be
+accompanied by pronunciations.
+     If the child is to advance from the stage of code reading characterized
+by selective association, to that of cipher reading based on knowledge of
+the systematic relationship between printed and spoken word, a number of
+152          WESLEY     A. HOOVER     AND   PHILIP   B. GOUGH
+
+conditions must be met (Cough and Hillinger 1980). The child must have
+(a) the intent to discover the print-sound relationship, (b) awareness of the
+alphabetic units of the printed word, (c) awareness of the phonemic units
+of the spoken word, and (d) access to sufficient data (namely, pairs of
+printed and spoken words). If such specific conditions must be met in
+order to successfully internalize the cipher, then instruction that efficiently
+addresses these should facilitate decoding acquisition.
+    Though instructional effectiveness is determined by more than just
+method (e.g., Barr 1984) some have argued that phonic approaches to
+reading instruction represent the most effective schemes known for
+teaching decoding (Flesch 1981; Williams 1985). While there is evidence
+suggesting that phonic approaches are superior to other methods with
+which they have been compared (Bond and Dykstra 1967; Chall 1967;
+Guthrie, Martuza, and Seifert 1979; Johnson and Baumann 1984) such
+evidence does not imply that phonic approaches are the most effective
+and efficient instructional methods for acquiring the cipher. Further, the
+relative successes of phonic approaches do not imply that those successes
+are attributable to the acquisition and use of the grapheme-phoneme
+correspondence rules generally taught in such methods (e.g., when two
+vowels go walking, the first does the talking). As argued elsewhere (Gough
+and Hillinger 1980) such rules cannot be the basis of lexical access for
+they are both too few and too slow.
+    Rather than having any direct influence, the effects of phonic approaches
+in acquiring the cipher may be entirely indirect. As one possibility, phonic
+methods may simply facilitate phonological awareness (explicit recognition
+that the speech stream can be segmented into discrete phonemic units),
+thereby satisfying one of the four conditions specified above for acquiring
+the cipher. To take another possibility, instruction in phonics may simply
+provide the child with a strategy for generating pronunciations            from
+printed words, such contributing        data to be used in discovering the
+systematic relationship embodied in the cipher. In each of these cases, the
+effect of phonic approaches would have no direct bearing on the specific
+character of the cipher acquired.
+    To summarize, the simple view holds that skill in decoding must be
+acquired for success in reading. Further, it has been argued that in an
+alphabetic orthography, decoding acquired as ciphering will allow the
+recognition of novel printed words, thus freeing instruction from having to
+provide pronunciations for every novel printed word encountered by the
+child. While phonics instruction seemingly facilitates acquisition of the
+cipher (though the mechanism of influence is unknown), the simple view
+does not hold that phonics instruction is necessary in order to acquire the
+ cipher: what is acquired (the precise content of the cipher) and what
+constitutes the best method for acquiring it are independent, and currently
+unanswered, questions.
+                      SIMPLE    VIEW   OF   READING                      153
+
+Linguistic comprehension. The simple view also claims that linguistic
+comprehension is a necessary component of skilled reading. The simple
+view does not claim that exactly the same procedures used in linguistic
+comprehension      are employed in reading comprehension, for there are
+clear differences. To take a few examples, the suprasegmentals repre-
+sented in speech are greatly impoverished          in written language; the
+availability of previous input makes review much easier for written than
+for spoken language; and the interpretation        of deictic terms may be
+derived differently in written than in spoken language (Danks 1980; Rubin
+1980). Each of these differences is likely to be reflected in processing
+differences.
+     The simple view, however, argues that these differences are relatively
+minor in comparison to the great similarities between linguistic and
+reading comprehension. The commonalities argued for in the simple view
+suggest that instruction facilitating linguistic comprehension should like-
+wise facilitate reading comprehension (if decoding is not nil), and indeed,
+a number of studies indicate that improvements in listening comprehen-
+sion (effected through a variety of training programs) lead to improve-
+ments in reading comprehension         (for a review, see Sticht and James
+ 1984).
+     In addition, the simple view implies that as an individual’s knowledge
+base increases (through whatever mechanism), as that knowledge base is
+reflected in linguistic comprehension, so should it be reflected in reading
+comprehension,      and vice-versa. To take one relevant study, Pearson,
+Hansen, and Gordon (1979) have shown that specific knowledge of a
+given area is positively related to reading comprehension. Taking two
+groups of second-grade readers matched on IQ and general reading
+comprehension, but differing in specific knowledge of a given domain,
+Pearson et al. found that those with greater expertise in the selected
+domain better comprehended passages pertinent to that domain than did
+those with less expertise. In terms of the simple view, the greater the
+knowledge base expressible through linguistic comprehension, the greater
+ the reading comprehension (assuming non-zero decoding skills).
+     As pointed out by Perfetti and Curtis (1986), the activation of relevant
+ knowledge while reading may be problematic          for some children, the
+ difficulty stemming from effortful decoding. For such children, instruction
+ that leads to more efficient decoding will allow more of limited cognitive
+ resources to be devoted to comprehension processes, including the activa-
+ tion of relevant knowledge.
+
+Reading Disability
+The simple view of reading also has important implications for reading
+disability (Gough and Tunmer 1986). As reviewed earlier, skill in decod-
+154          WESLEY     A. HOOVER      AND   PHILIP   B. GOUGH
+
+ing and linguistic comprehension have been found to be positively related
+in the literate population. Such would be expected given the reciprocal
+relationships (Stanovich 1986) between these skills (i.e., as decoding skill
+improves, reading improves, such tending to lead to increased amounts of
+reading, which further strengthens both skill in decoding and linguistic
+comprehension). However, within the illiterate population, the simple view
+of reading holds that decoding and linguistic comprehension            can be
+dissociated, and, most interestingly, must be dissociated if substantial skill
+is evidenced in either of the two components.
+
+Dyslexia. There has long been recognition of a specific difficulty restricted
+to reading that is not accompanied by difficulty in other cognitive
+functioning. Commonly known as dyslexia, the disability is defined by
+exclusion, dyslexics being those who have difficulty reading despite normal
+intelligence and sensory functioning, an adequate opportunity to learn,
+and an absence of severe neurological or physical disability, emotional or
+social difficulty, or socioeconomic disadvantage (Vellutino 1979).
+    The simple view, while silent on the unresolved issue of a singular or
+multiple etiological base, claims that the reading difficulties encountered
+by all such dyslexic individuals, by definition linguistically competent, can
+only stem from a deficiency in decoding skill. Though definitive studies
+have not been conducted, there are a number of investigations showing
+that individuals selected on the basis of the exclusionary criteria given
+above are indeed substantially deficient in decoding skill (Doehring,
+Trites, Patel, and Fiedorowicz 1981; Seymour and Porpodas 1980;
+Snowling 1980; Vellutino 1979). Thus, while the question of why decod-
+ing skills are deficient in dyslexics is unanswered, there is support for the
+assertion of the simple view that the commonality             of reading failure
+represented in dyslexia is a failure in decoding.
+
+Hyperlexiu. A second type of dissociation within the illiterate population
+predicted from the simple view concerns superior decoding skill accom-
+panied by inferior comprehension       skill. Given the nature of language
+acquisition, such cases are rare; those that have been identified are known
+as hyperlexics.
+   A study by Healy (1982) identified a small sample of children who
+evidenced exceptional skill in decoding but reading age equivalents that
+were some two years lower than those expected from chronological age.
+While demonstrating that decoding skill is not sufficient for reading skill, it
+does not follow from such evidence that decoding is therefore not
+necessary for reading. Indeed, as would be predicted by the simple view,
+the students in Healy’s study evidenced listening age equivalents that were
+also two years lower than their chronological ages. From the simple view,
+                       SIMPLE   VIEW   OF   READING                       155
+
+when decoding skills are highly developed, reading and listening skills will
+be equivalent, and in the case of hyperlexia, reduced linguistic comprehen-
+sion will be responsible for reduced reading comprehension.
+
+Literacy
+A third implication of the simple view of reading concerns the notion of
+literacy. Clarity about the meaning of literacy is important not just for
+purposes of theory, but also because confusion over what constitutes
+literacy will likely result in confusion over the solutions proposed to
+reduce illiteracy. In the treatment below, only those aspects of literacy
+linked to reading will be discussed, ignoring writing (though the arguments
+could be extended to include it).
+     From the simple view, literacy (limited to reading) may be seen as the
+contrast between linguistic comprehension and reading comprehension.
+For example, suppose an individual has mastered most of the syntax of
+English yet knows only the most frequent English words. Further, suppose
+this person can decode the printed versions of precisely the same set of
+known words, no more nor fewer. Under the simple view of reading,
+linguistic comprehension and reading comprehension in this individual are
+equivalent: with respect to current linguistic skill, such a person is fully
+literate (for reading) since whatever can be comprehended by ear can
+likewise be comprehended by eye, and vice versa.
+     Simply increasing the decoding skill of such an individual will not
+increase reading comprehension as the meaning of any words that can
+now be decoded given the newly expanded skill will still be absent from
+the internal lexicon. In like fashion, simply increasing linguistic compre-
+hension by, for example, expanding the domain of known words, will also
+fail to result in increased reading comprehension            unless success in
+decoding the printed representations of those words in the enlarged
+domain is also guaranteed.
+     Treating literacy as reading ability, expanded linguistic comprehension
+ (e.g., through expansion of lexical entries) without expanded decoding skill
+results in reduced literacy as the difference in skill between oral language
+ (linguistic comprehension) and written language (reading comprehension)
+has been increased. However, this circumstance also results in an
+increased potential for literacy as linguistic capacity has been expanded
+ thereby allowing expanded reading potential (Sticht and James 1984)
+ should adequate decoding skills be acquired.
+     Of course, the reading skills of fully literate individuals       can be
+improved. If decoding skills are adequate to efficiently decode any word
+ encountered, then the limit on reading is the limit on linguistic compre-
+hension, and for each increase in linguistic comprehension, there will be
+156           WESLEY     A. HOOVER      AND PHILIP     B. GOUGH
+
+an equal increase in reading comprehension.            Similarly, for individuals
+whose decoding skill is not adequate to decode new entries to the internal
+lexicon, if decoding skill improves to allow recognition of the printed
+representation of such new entries, then reading comprehension                 will
+improve in step with linguistic comprehension.
+    While the reading ability of an individual can be simply viewed as the
+difference between linguistic comprehension and reading comprehension,
+many argue that the notion of literacy entails a certain degree of concep-
+tual understanding or cognitive ability assessed relative to an external
+standard, for example, by reference to some set of concepts one is
+expected to be familiar with or to some set of tasks one is expected to be
+able to perform (Applebee, Langer, and Mullis 1987; Harman 1987;
+Venezky, Kaestle, and Sum 1987). A number of points can be made
+concerning the relationship between reading and a literacy component
+representing conceptual understanding.
+    First, the acquisition of familiarity with a specified set of culturally
+valued literary works or knowledge bases is independent of the mode of
+acquisition, as such can be achieved in a number of ways that do not
+involve the individual’s own reading. Second, Fries’ (1963) point, cited
+earlier, that the skills of thinking, evaluating, judging, imagining, reasoning,
+and problem-solving       can be found in both illiterates and literates is
+important, as it emphasizes that these cognitive abilities are not the
+exclusive dependents of reading. Finally, while reading is exclusively
+linguistic, many of the commonly claimed literacy tasks are non-linguistic
+(e.g., knowing how to carry out arithmetic operations or how to “read” a
+map).
+    These points all argue that the notion of conceptual understanding as a
+component of literacy is logically independent of reading. While the
+understanding of a particular concept does not have a necessary connec-
+tion to reading ability, as understanding develops, linguistic comprehen-
+sion with respect to that conceptual arena will also likely expand. As
+linguistic comprehension        expands, reading potential will increase, this
+potential being realized if decoding skills are adequate. That such under-
+standing may develop either through oral or written language is a key
+point, the important application as follows: Teaching reading (in the
+simple sense of achieving equal linguistic comprehension and reading
+comprehension) will not reduce the problem of illiteracy if that problem is
+mainly seen as one focused on conceptual understanding. While reading
+undoubtedly can further conceptual understanding (e.g., learning through
+reading), to substantially reduce illiteracy defined with respect to concep-
+tual understanding the overall education of individuals must be considered
+not just their ability to understand through reading what can be under-
+stood through listening.
+                            SIMPLE     VIEW     OF READING                                157
+
+CONCLUSIONS
+
+The strength of the simple view of reading, in addition to its simplicity, is
+that it has allowed a set of non-trivial and testable predictions. Under the
+assessments described above these predictions could not be falsified,
+thereby supporting the assertion that skill in reading can be simply charac-
+terized as the product of skill in decoding and linguistic comprehension.
+    Implications  of the simple view, arguing for the necessity and suffi-
+ciency of decoding and linguistic comprehension             in skilled reading,
+include the following: (a) when skill in both components is non-zero, then
+instruction that advances skill in either component will advance skill in
+reading; (b) within the illiterate population, skill in decoding and linguistic
+comprehension will be inversely related if substantial skill is evidenced in
+either component; and (c) advancing literacy by achieving equal linguistic
+and reading comprehension will not necessarily have direct impact on the
+problem of illiteracy if that problem is mainly seen as one of conceptual
+understanding.
+
+
+ACKNOWLEDGMENTS
+
+This publication    was based upon work originally sponsored by the
+National Institute of Education (NIE), Department of Education, under
+Contract No. 400-83-0007      to the Southwest Educational Development
+Laboratory. The content does not necessarily reflect the views of the NIE,
+the Department, or any other agency of the U.S. Government. The authors
+thank John Loehlin for his thoughtful comments on an earlier draft of the
+paper. Correspondence concerning this article should be addressed to
+Wesley A. Hoover, Southwest Educational Development Laboratory, 211
+East Seventh Street, Austin, Texas, 7870 1.
+
+
+NOTES
+
+’ Auding, a term coined by Brown (1954), is defined as listening to language for the
+purpose of comprehension.
+z John Loehhn has pointed out that when measurement error is present, both additive and
+multiplicative combinations of decoding and linguistic comprehension predict increases in
+intercept values. This is because at the floor, error will result in some obtained zero values
+that are associated with greater than zero true values, and at the ceiling, some obtained
+maximal values that correspond to less than maximal true values. Fitting lines based on the
+products of such true scores results in positive (rather than zero) intercepts, the magnitude
+of the intercept increasing with decoding level. Measurement error, however, does not
+affect the different predictions of the additive and multiplicative notions with respect to
+slope values.
+158                 WESLEY             A. HOOVER        AND      PHILIP      B. GOUGH
+
+REFERENCES
+
+Anderson, R., Hiebert, E., Scott, J., and Wilkinson, I. 1985. Becoming a nation of readers:
+    The report of the Commission        on Reading. Urbana, IL: University of Illinois, Center for
+   the Study of Reading.
+Applebee, A., Langer, J., and Mullis, I. 1987. Learning to be literate in America. Princeton,
+   NJ: National Assessment of Educational Progress, Educational Testing Service.
+Barr, R. 1984. Beginning reading instruction: From debate to reformation. In P. Pearson
+    (ed.), Handbook     of reading research (pp. 545-58 1). New York: Longman.
+Bond, G. and Dykstra, R. 1967. The cooperative research program in first-grade reading
+   instruction. Reading Research Quarterly,        2,5--142.
+Brown, D. 1954. Auding as the primary            language      ability. Unpublished doctoral disserta-
+   tion, Stanford University.
+Calfee, R. and Associates. 1978. Stanford foundation                 skulls test. Unpublished manuscript,
+    Stanford University, Stanford, CA.
+Calfee, R. and Associates. 1980. Stanford foundation                   skills test (rev. ed.). Unpublished
+   manuscript, Stanford University, Stanford, CA.
+Calfee, R. and Calfee, K. 1979. Interactive               reading       assessment    system. Unpublished
+   manuscript, Stanford University, Stanford, CA.
+Calfee, R. and Calfee, K. 1981. Interactive          reading assessment system (rev. ed.). Unpub-
+   lished manuscript, Stanford University, Stanford, CA.
+Calfee, R. and Drum, P. 1986. Research on teaching reading. In M. Wittrock (ed.),
+    Handbook     of research on teaching (3rd ed., pp. 804-849).              New York: Macmillan.
+Chall, J. 1967. Learning to read: The great debate. New York: McGraw-Hill.
+Curtis, M. 1980. Development of components of reading skill. Journal of Educational
+   Psychology,      72,656-669.
+Danks, J. 1980. Comprehension in listening and reading: Same or different? In F. Murray
+    (ed.), Reading and understanding       (pp. l-39). Newark, DE: International Reading
+   Association.
+Doehring, D., Trites, R., Pate], P., and Fiedorowicz, C. 1981. Reading disubihties:      The
+    interaction  of reading, language,  and neuropsychological deficits. New York: Academic
+   Press.
+Flesch, R. 198 1. Why Johnny still can’t read. New York: Harper & Row.
+Freedman, S. and Calfee, R. 1984. Understanding and comprehending. Written Communi-
+   cation,    1,459-490.
+Fries, C. 1963. Linguistics and reading. New York: Holt, Rinehart & Winston.
+Gates, A. 1949. Character and purposes of the yearbook. In N. Henry (ed.), The forty-
+   eighth yearbook    of the National        Society   for   the Study   of Education:   Part II. Reading     in
+   the elementary  school (pp. l-9). Chicago: University of Chicago Press.
+Glushko, R. 1979. The organization and activation of orthographic knowledge in reading
+   aloud. Journal of Experimental     Psychology:  Human    Perception    and Peformance,    5,
+   674-691.
+Gough, P. 1983. Context, form, and interaction. In K. Rayner (ed.), Eye movements            in
+   reading:  Perceptual  and language    processes  (pp. 203-211).     New York: Academic
+   Press.
+Gough, P. 1984. Word recognition. In P. Pearson (ed.), Handbook        of reading research (pp.
+   225-253).    New York: Longman.
+Gough, P. and Hillinger, M. 1980. Learning to read: an unnatural act. Bulletin of the Orton
+   Society,   30,1-17.
+Gough, P. and Tunmer, W. 1986. Decoding, reading, and reading disability. Remedial                          and
+   Special    Education,     7,6-10.
+                                     SIMPLE   VIEW   OF READING                                     159
+
+Guthrie, J., Martuza, V., and Seifert, M. 1979. Impacts of instructional time in reading. In
+   L. Resnick and P. Weaver (eds.), Theory and practice of early reading (Vol. 3, pp. 153-
+   178). Hillsdale, NJ: Erlbaum.
+Harman, D. 1987. Illiteracy: A national dilemma. New York: Cambridge Book Company.
+Healy, J. 1982. The enigma of hyperlexia. Reading Research Quarterly,           17,319-338.
+Henderson, L. 1982. Orthography             and word recognition    in reading.   London: Academic
+   Press.
+Hoover, W., Calfee, R., and Mace-Matluck, B. 1984a. Teaching reading to bilingual
+   children     study: Vol. 5. Reading       growth   (Final Report, Contract No. 400-83-0007).
+   Washington, DC: National Institute of Education.
+Hoover, W., Calfee, R., and Mace-Matluck, B. 1984b. Teaching reading to bilingual
+   children    study: Vol. 6. Instruction     (Final Report, Contract No. 400-83-0007). Washing-
+   ton, DC: National Institute of Education.
+Huey, E. 1968. The psychology           and pedagogy   of reading. Cambridge: MIT Press. (Original
+   work published 1908)
+Jackson, M. and McClelland, J. 1979. Processing determinants of reading speed. Journal of
+   Experimental       Psychology:  General, 108,15 l-l 8 1.
+Johnson, D. and Baumann, J. 1984. Word identification. In P. Pearson (ed.), Handbook              of
+   reading research (pp. 583-608).          New York: Longman.
+Jorm, A. and Share, D. 1983. Phonological recoding and reading acquisition. Applied
+   Psycholinguistics,        4,103-147.
+Olson, D. 1977. From utterance to text: The bias of language in speech and writing.
+    Harvard    Educational     Review, 47,257-28      1.
+Palmer, J., MacLeod, C., Hunt, E., and Davidson, J. 1985. Information processing
+    correlates of reading. Journal of Memory and Language, 24,59-88.
+Pearson, P., Hansen, J., and Gordon, C. 1979. The effect of background knowledge on
+    young children’s comprehension of explicit and implicit information. Journal of Reading
+    Behavior,     II, 201-209.
+Perfetti, C. and Curtis, M. 1986. Reading. In R. Dillon and R. Sternberg (eds.), Cognition
+    and instruction     (pp. 13-57). Orlando: Academic Press.
+Rubin, A. 1980. A theoretical taxonomy of the differences between oral and written
+    language. In R. Spiro, B. Bruce, and W. Brewer (eds.), Theoretical                   issues in reading
+    comprehension       (pp. 4 1 l-438). Hillsdale, NJ: Erlbaum.
+Rumelhart, D. 1977. Toward an interactive model of reading. In S. Domic (ed.), Attention
+    andpe$ormance          VI (pp. 573-603).    HiIlsdale, NJ: Erlbaum.
+Seymour, P. and Porpodas, C. 1980. Lexical and non-lexical processing of spelling in
+    dyslexia. In U. Frith (ed.), Cognitive processes in spelling (pp. 443-473).                   London:
+    Academic Press.
+Singer, M. and Crouse, J. 198 1. The relationship of context-use skills to reading: A case
+    for an alternative experimental logic. Child Development,           52, 1326-l 329.
+Snowling, M. 1980. The development of grapheme-phoneme correspondence in normal
+    and dyslexic readers. Journal of Experimental         Child Psychology,    29,294-305.
+Stanovich, K. 1980. Toward an interactive-compensatory model of individual differences
+    in the development of reading fluency. Reading Research Quarterly,             16,32-7     1.
+Stanovich, K. 1986. Matthew effects in reading: Some consequences of individual differ-
+    ences in the acquisition of literacy. Reading Research Quarterly,         21,360-407.
+Stanovich, K., Cunningham, A., and Feeman, D. 1984. Intelligence, cognitive skills, and
+    early reading progress. Reading Research Quarterly,          19,278-303.
+Stanovich, K., Nathan, R., and Vala-Rossi, M. 1986. Developmental changes in the
+    cognitive correlates of reading ability and the developmental lag hypothesis. Reading
+   Research     Quarterly,     21,267-283.
+160            WESLEY      A. HOOVER        AND    PHILIP   B. GOUGH
+
+Stanovich, K. and West, R. 1983. On priming by a sentence context. Journal of Experi-
+     mental Psychology: General, 112, I-36.
+Sticht, T. and James, J. 1984. Listening and reading. In P. Pearson (ed.), Handbook of
+     reading research (pp. 293-3 17). New York: Longman.
+Vellutino, F. 1979. Dyslexia: Theory and research. Cambridge, MA: MIT Press.
+Venezky, R., Kaestle, C., and Sum, A. 1987. The subtle danger: Rejlections on the literacy
+     abilities of America’s young adults. Princeton, NJ: Educational Testing Service.
+Williams, J. 1985. The case for explicit decoding instruction. In J. Osbom, P. Wilson, and
+    R. Anderson (eds.), Reading education: Foundations for a literate America (pp. 205-
+    2 13). Lexington, MA: Lexington Books.
+

@@ -1,0 +1,229 @@
+---
+title: "Initial Descriptive Analysis of ECLS-K Achievement Data"
+author: "SCALES Lab"
+date: "2026-05-15"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    code-fold: false
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## Purpose
+
+This notebook provides an initial descriptive analysis of the ECLS-K achievement file used in the SVR-DD project. The goal is to inspect the structure of the dataset, summarize missingness, describe broad developmental patterns across grades, and examine within-grade associations among achievement domains before moving to formal developmental models.
+
+## Setup
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(knitr)
+```
+
+```{r}
+eclsk <- read_csv(
+  "../../data/eclsk_data.csv",
+  na = c("", "NA")
+) %>%
+  clean_names() %>%
+  select(-any_of(c("x", "x1")))
+
+glimpse(eclsk)
+```
+
+## Data overview
+
+The dataset contains repeated achievement measures for science, reading, and mathematics in grades 3, 5, and 8. Variables with prefixes `s_`, `r_`, and `m_` are the raw achievement measures used in this notebook. Variables with prefixes `st_`, `rt_`, and `mt_` are transformed versions retained in the source file but not emphasized in this initial overview.
+
+```{r}
+overview <- tibble(
+  students = nrow(eclsk),
+  variables = ncol(eclsk),
+  grades = "3, 5, 8",
+  domains = "Science, Reading, Mathematics"
+)
+
+kable(overview)
+```
+
+```{r}
+raw_long <- eclsk %>%
+  select(id, matches("^[srm]_g[358]$")) %>%
+  pivot_longer(
+    cols = -id,
+    names_to = c("domain", "grade"),
+    names_pattern = "([srm])_g([358])",
+    values_to = "score"
+  ) %>%
+  mutate(
+    domain = recode(
+      domain,
+      s = "Science",
+      r = "Reading",
+      m = "Mathematics"
+    ),
+    grade = as.integer(grade)
+  )
+```
+
+## Missing-data summary
+
+Because the same students are not observed at every wave, the first descriptive question is how much usable data are available for each domain and grade.
+
+```{r}
+missing_summary <- raw_long %>%
+  group_by(domain, grade) %>%
+  summarize(
+    n_nonmissing = sum(!is.na(score)),
+    n_missing = sum(is.na(score)),
+    pct_nonmissing = mean(!is.na(score)) * 100,
+    .groups = "drop"
+  ) %>%
+  arrange(domain, grade)
+
+kable(
+  missing_summary,
+  digits = 1,
+  col.names = c("Domain", "Grade", "Non-missing n", "Missing n", "Non-missing %")
+)
+```
+
+The number of observed scores declines across grades, which will matter for any later longitudinal analysis.
+
+## Descriptive statistics
+
+```{r}
+descriptives <- raw_long %>%
+  group_by(domain, grade) %>%
+  summarize(
+    n = sum(!is.na(score)),
+    mean = mean(score, na.rm = TRUE),
+    sd = sd(score, na.rm = TRUE),
+    min = min(score, na.rm = TRUE),
+    max = max(score, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  arrange(domain, grade)
+
+kable(
+  descriptives,
+  digits = 2,
+  col.names = c("Domain", "Grade", "n", "Mean", "SD", "Min", "Max")
+)
+```
+
+## Mean achievement across grades
+
+```{r}
+mean_plot_data <- raw_long %>%
+  group_by(domain, grade) %>%
+  summarize(
+    mean_score = mean(score, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+ggplot(mean_plot_data, aes(x = grade, y = mean_score, color = domain)) +
+  geom_line(linewidth = 1) +
+  geom_point(size = 2.5) +
+  scale_x_continuous(breaks = c(3, 5, 8)) +
+  labs(
+    title = "Mean achievement increases from grade 3 to grade 8",
+    x = "Grade",
+    y = "Mean score",
+    color = "Domain"
+  ) +
+  theme_minimal(base_size = 12)
+```
+
+All three domains show higher mean scores at later grades. This figure is descriptive only; it does not distinguish developmental growth from differences introduced by attrition or measurement features.
+
+## Within-grade associations among domains
+
+A second useful descriptive question is whether science, reading, and mathematics scores are positively associated within each grade.
+
+```{r}
+correlation_tables <- raw_long %>%
+  select(id, domain, grade, score) %>%
+  pivot_wider(names_from = domain, values_from = score) %>%
+  group_by(grade) %>%
+  group_map(~ {
+    cor_matrix <- .x %>%
+      select(Science, Reading, Mathematics) %>%
+      cor(use = "pairwise.complete.obs") %>%
+      round(2)
+
+    list(
+      grade = unique(.x$grade),
+      matrix = cor_matrix
+    )
+  })
+```
+
+```{r, results='asis'}
+for (item in correlation_tables) {
+  cat("### Grade ", item$grade, "\n\n", sep = "")
+  print(kable(item$matrix))
+  cat("\n\n")
+}
+```
+
+```{r}
+cor_plot_data <- raw_long %>%
+  select(id, domain, grade, score) %>%
+  pivot_wider(names_from = domain, values_from = score) %>%
+  group_by(grade) %>%
+  summarize(
+    science_reading = cor(Science, Reading, use = "pairwise.complete.obs"),
+    science_math = cor(Science, Mathematics, use = "pairwise.complete.obs"),
+    reading_math = cor(Reading, Mathematics, use = "pairwise.complete.obs"),
+    .groups = "drop"
+  ) %>%
+  pivot_longer(
+    cols = -grade,
+    names_to = "pair",
+    values_to = "correlation"
+  ) %>%
+  mutate(
+    pair = recode(
+      pair,
+      science_reading = "Science–Reading",
+      science_math = "Science–Mathematics",
+      reading_math = "Reading–Mathematics"
+    )
+  )
+
+ggplot(cor_plot_data, aes(x = factor(grade), y = correlation, fill = pair)) +
+  geom_col(position = "dodge") +
+  scale_y_continuous(limits = c(0, 1)) +
+  labs(
+    title = "Achievement domains are positively associated within grade",
+    x = "Grade",
+    y = "Correlation",
+    fill = "Domain pair"
+  ) +
+  theme_minimal(base_size = 12)
+```
+
+The domains are positively associated within each grade. These associations are consistent with the idea that reading-related and broader academic skills develop together, but they do not by themselves identify the mechanism producing that pattern.
+
+## Initial observations
+
+This first descriptive pass suggests four practical points for later modeling work:
+
+1. The file contains repeated measures for three achievement domains across grades 3, 5, and 8.
+2. Available sample size declines across later grades, so longitudinal analyses will need an explicit missing-data strategy.
+3. Mean achievement scores rise across grades in all three domains.
+4. Science, reading, and mathematics scores are positively associated within grade.
+
+These patterns provide useful orientation for subsequent SVR-DD analyses, but they remain descriptive. Model comparison will require explicit developmental mechanisms and tests of the patterns those mechanisms imply.
+
+## Session information
+
+```{r}
+sessionInfo()
+```
